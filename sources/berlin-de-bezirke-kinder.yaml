@@ -1,7 +1,7 @@
 id: berlin-de-bezirke-kinder
 name: Berlin district event calendars, category "Kinder, Jugendliche"
 schema: family-event
-enabled: false
+enabled: true
 # c=14 is the combined calendar of all districts; kategorie[50]=3 is "Kinder, Jugendliche".
 # The feed always holds the next 100 events from today (about three days), so daily runs
 # accumulate the dataset; it ignores offsets and later start dates.
@@ -20,11 +20,18 @@ fetch:
   max_requests: 3
   delay_seconds: 2
 rights:
-  review_status: pending
-  # Suggested from the terms read on 2026-10-10 (evidence/berlin-de-bezirke-kinder/); the owner decides and sets
-  # allowed_actions. Until then nothing is stored, normalized or exported.
+  review_status: approved
+  reviewed_at: 2026-10-10
+  expires_at: 2027-10-10
   effective_tier: facts_only
-  public_fields: [title, start_date, time_text, venue, age_min, source_url]
+  allowed_actions:
+    private_store: true
+    normalize: true
+    send_to_model: false
+    redistribute_facts: true
+    redistribute_text: false
+    redistribute_images: false
+  public_fields: [title, start_date, time_text, source_url]
   notes: >-
-    No licence found; facts only. Descriptions and images are protected and stay out of the
-    export. See evidence/berlin-de-bezirke-kinder/2026-10-10-terms.yaml.
+    Approved by the owner (L) on 2026-10-10 for facts only: no licence found, so
+    descriptions and images stay out of the export. See evidence/berlin-de-bezirke-kinder/2026-10-10-terms.yaml.

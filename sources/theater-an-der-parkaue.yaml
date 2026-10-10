@@ -1,7 +1,7 @@
 id: theater-an-der-parkaue
 name: Theater an der Parkaue (Junges Staatstheater Berlin), Spielplan
 schema: family-event
-enabled: false
+enabled: true
 # The page marks each performance up as schema.org Event microdata (not JSON-LD), so the
 # selectors read those elements. Each performance also links a one-event .ics file.
 delivery: html
@@ -20,11 +20,18 @@ fetch:
   max_requests: 3
   delay_seconds: 2
 rights:
-  review_status: pending
-  # Suggested from the terms read on 2026-10-10 (evidence/theater-an-der-parkaue/); the owner decides and sets
-  # allowed_actions. Until then nothing is stored, normalized or exported.
+  review_status: approved
+  reviewed_at: 2026-10-10
+  expires_at: 2027-10-10
   effective_tier: facts_only
-  public_fields: [title, start_date, time_text, venue, age_min, source_url]
+  allowed_actions:
+    private_store: true
+    normalize: true
+    send_to_model: false
+    redistribute_facts: true
+    redistribute_text: false
+    redistribute_images: false
+  public_fields: [title, start_date, time_text, venue, street, postal_code, district, age_min, indoor, categories, source_url]
   notes: >-
-    No licence found; facts only. Descriptions and images are protected and stay out of the
-    export. See evidence/theater-an-der-parkaue/2026-10-10-terms.yaml.
+    Approved by the owner (L) on 2026-10-10 for facts only: no licence found, so
+    descriptions and images stay out of the export. See evidence/theater-an-der-parkaue/2026-10-10-terms.yaml.
