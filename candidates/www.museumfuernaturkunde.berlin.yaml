@@ -1,0 +1,8 @@
+url: https://www.museumfuernaturkunde.berlin/programm/
+why: Natural history museum with weekly family tours (Familienführungen) and a "Familien" target group.
+best_option: html/selectors on article.teaser-calendar__item (ISO date in time@datetime, target group in the meta list).
+legal_pages: [https://www.museumfuernaturkunde.berlin/impressum/]
+notes: >-
+  Only the next 10 events are rendered server-side; the full calendar loads from
+  /api/v1/kalender and the family filter needs a query string, which robots.txt disallows
+  (Disallow: /*?). Crawl-delay 30.

@@ -1,0 +1,8 @@
+url: https://www.zlb.de/veranstaltungen
+why: Zentral- und Landesbibliothek Berlin; has an "Eltern & Kinder" event category.
+best_option: html/selectors on article.eventTeaser.category-77 (the Eltern & Kinder class).
+legal_pages: [https://www.zlb.de/impressum/, https://www.zlb.de/soagb/]
+notes: >-
+  Probe ranks jsonld, but the JSON-LD is only OpeningHoursSpecification, no Event. Only 10
+  events per page and the filter is a POST form, so few children's events per run.
+  robots.txt disallows *.ics.

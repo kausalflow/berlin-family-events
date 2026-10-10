@@ -1,0 +1,8 @@
+url: https://www.zoo-berlin.de/de/aktuelles/veranstaltungskalender
+why: Zoo Berlin event calendar (holiday programmes, feeding talks, family days); about 30 events.
+best_option: html/selectors on li.events__list-item.
+legal_pages: [https://www.zoo-berlin.de/de/impressum, https://www.zoo-berlin.de/de/agb]
+notes: >-
+  Dates are written as "19. Oktober – 23. Oktober" without a year; gleanyard's date
+  normalizer reads d.m.yyyy and ISO only, so this needs German month names first (package
+  change, not done here). Ages and prices are in events__attributes-list.
