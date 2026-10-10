@@ -1,0 +1,5 @@
+url: https://schaubude.berlin/spielplan/
+why: Puppet and object theatre with a children's programme.
+best_option: html/selectors; the linked RSS (/de/spielplan/feed/) carries post dates, not performance dates.
+legal_pages: []
+notes: WordPress without an events API; JSON-LD is CollectionPage only.

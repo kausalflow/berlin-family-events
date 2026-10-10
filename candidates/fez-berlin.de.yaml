@@ -1,0 +1,5 @@
+url: https://fez-berlin.de/veranstaltungen
+why: FEZ-Berlin, Europe's largest non-profit children's and youth centre (Wuhlheide).
+best_option: none yet; the event list is rendered by JavaScript (only 16 static teasers).
+legal_pages: [https://fez-berlin.de/impressum, https://fez-berlin.de/agb-fez-berlin]
+notes: Needs a look at the XHR endpoint the page calls, or llm mode on detail pages.

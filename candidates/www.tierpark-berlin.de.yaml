@@ -1,0 +1,5 @@
+url: https://www.tierpark-berlin.de/de/aktuelles/veranstaltungskalender
+why: Tierpark Berlin event calendar; same CMS and markup as the Zoo, about 46 events.
+best_option: html/selectors on li.events__list-item.
+legal_pages: [https://www.tierpark-berlin.de/de/impressum, https://www.tierpark-berlin.de/de/agb]
+notes: Same blocker as the Zoo (dates with German month names and no year).

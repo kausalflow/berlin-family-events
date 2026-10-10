@@ -1,0 +1,30 @@
+id: theater-an-der-parkaue
+name: Theater an der Parkaue (Junges Staatstheater Berlin), Spielplan
+schema: family-event
+enabled: false
+# The page marks each performance up as schema.org Event microdata (not JSON-LD), so the
+# selectors read those elements. Each performance also links a one-event .ics file.
+delivery: html
+url: https://www.parkaue.de/spielplan/
+extract:
+  mode: selectors
+  selectors: mappings/theater-an-der-parkaue.json
+  defaults:
+    venue: Theater an der Parkaue
+    street: Parkaue 29
+    postal_code: "10367"
+    district: Lichtenberg
+    indoor: true
+    categories: [Theater]
+fetch:
+  max_requests: 3
+  delay_seconds: 2
+rights:
+  review_status: pending
+  # Suggested from the terms read on 2026-10-10 (evidence/theater-an-der-parkaue/); the owner decides and sets
+  # allowed_actions. Until then nothing is stored, normalized or exported.
+  effective_tier: facts_only
+  public_fields: [title, start_date, time_text, venue, age_min, source_url]
+  notes: >-
+    No licence found; facts only. Descriptions and images are protected and stay out of the
+    export. See evidence/theater-an-der-parkaue/2026-10-10-terms.yaml.

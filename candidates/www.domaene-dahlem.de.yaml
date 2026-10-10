@@ -1,0 +1,7 @@
+url: https://www.domaene-dahlem.de/veranstaltungen/
+why: Organic farm and open-air museum with family events and holiday programmes.
+best_option: none yet.
+legal_pages: []
+notes: >-
+  The WordPress API exposes dd_events with an audience taxonomy (Familien), but the dates
+  live in the go~mus ticketing system (gomus_first_date is null), so the API has no dates.

@@ -1,0 +1,5 @@
+url: https://www.theater-strahl.de/spielplan/
+why: Youth theatre (mostly 12+), schedule per production.
+best_option: html/selectors.
+legal_pages: []
+notes: Dates sit on each production page (#spielplan), so a run needs several requests.

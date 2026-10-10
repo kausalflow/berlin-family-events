@@ -1,0 +1,8 @@
+url: https://www.smb.museum/veranstaltungen/
+why: Staatliche Museen zu Berlin, about 15 museums; family tours and workshops are part of the event list.
+best_option: html/selectors on the event list (div.event); about 44 events per page, all audiences.
+legal_pages: [https://www.smb.museum/impressum/]
+notes: >-
+  robots.txt disallows *.ics and the tx_smb filter parameters, so the per-event .ics links
+  probe offers and the family filter are both off limits. The plain list has no audience
+  field, so most records would be adult events. Low priority.

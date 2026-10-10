@@ -1,0 +1,27 @@
+id: grips-theater
+name: GRIPS Theater, Spielplan
+schema: family-event
+enabled: false
+# One page lists the whole season; each <li> carries the date and minimum age as data
+# attributes. Venues vary (GRIPS Hansaplatz, GRIPS Podewil am Alex, guest venues), so the
+# venue comes from the page and no address default is set.
+delivery: html
+url: https://www.grips-theater.de/de/spielplan
+extract:
+  mode: selectors
+  selectors: mappings/grips-theater.json
+  defaults:
+    indoor: true
+    categories: [Theater]
+fetch:
+  max_requests: 3
+  delay_seconds: 2
+rights:
+  review_status: pending
+  # Suggested from the terms read on 2026-10-10 (evidence/grips-theater/); the owner decides and sets
+  # allowed_actions. Until then nothing is stored, normalized or exported.
+  effective_tier: facts_only
+  public_fields: [title, start_date, time_text, venue, age_min, source_url]
+  notes: >-
+    No licence found; facts only. Descriptions and images are protected and stay out of the
+    export. See evidence/grips-theater/2026-10-10-terms.yaml.
