@@ -1,0 +1,4 @@
+# Project settings; every key is optional. See https://kausalflow.github.io/gleanyard/
+schema_version: 1
+user_agent: "berlin-family-events (+https://github.com/kausalflow/berlin-family-events)"   # say who you are; add a contact URL
+excluded_hosts: []        # hosts research must not propose
