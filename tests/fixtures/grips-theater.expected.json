@@ -1,0 +1,65 @@
+{
+  "records": {
+    "rec_09fb8e9fbee37c12b4d2": {
+      "age_min": 3,
+      "categories": [
+        "Theater"
+      ],
+      "indoor": true,
+      "source_url": "https://www.grips-theater.de/de/spielplan/abc-a-painters-alphabet-eine-neue-zirkus-performance/3385",
+      "start_date": "2026-10-10",
+      "time_text": "12.00 Uhr",
+      "title": "ABC â A Painters Alphabet â Eine neue Zirkus-Performance",
+      "venue": "GRIPS Podewil am Alex"
+    },
+    "rec_34e10afffe995097cf36": {
+      "age_min": 3,
+      "categories": [
+        "Theater"
+      ],
+      "indoor": true,
+      "source_url": "https://www.grips-theater.de/de/spielplan/abc-a-painters-alphabet-eine-neue-zirkus-performance/3386",
+      "start_date": "2026-10-10",
+      "time_text": "17.00 Uhr",
+      "title": "ABC â A Painters Alphabet â Eine neue Zirkus-Performance",
+      "venue": "GRIPS Podewil am Alex"
+    },
+    "rec_598625deefbab727be4a": {
+      "age_min": 12,
+      "categories": [
+        "Theater"
+      ],
+      "indoor": true,
+      "source_url": "https://www.grips-theater.de/de/spielplan/das-herz-eines-boxers/3198",
+      "start_date": "2026-10-13",
+      "time_text": "11.00 Uhr",
+      "title": "Das Herz eines Boxers",
+      "venue": "GRIPS Podewil am Alex"
+    },
+    "rec_8b21376146e9e9fc72be": {
+      "age_min": 12,
+      "categories": [
+        "Theater"
+      ],
+      "indoor": true,
+      "source_url": "https://www.grips-theater.de/de/spielplan/das-herz-eines-boxers/3205",
+      "start_date": "2026-10-14",
+      "time_text": "11.00 Uhr",
+      "title": "Das Herz eines Boxers",
+      "venue": "GRIPS Podewil am Alex"
+    },
+    "rec_b0e657eddae377629a4a": {
+      "age_min": 5,
+      "categories": [
+        "Theater"
+      ],
+      "indoor": true,
+      "source_url": "https://www.grips-theater.de/de/spielplan/oh-peinlich/3381",
+      "start_date": "2026-10-14",
+      "time_text": "17.00 Uhr",
+      "title": "oh peinlich",
+      "venue": "GRIPS Hansaplatz"
+    }
+  },
+  "today": "2026-10-10"
+}
