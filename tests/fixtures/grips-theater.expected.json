@@ -1,6 +1,6 @@
 {
   "records": {
-    "rec_09fb8e9fbee37c12b4d2": {
+    "rec_05e4ea21cd6a79918dab": {
       "age_min": 3,
       "categories": [
         "Theater"
@@ -9,10 +9,10 @@
       "source_url": "https://www.grips-theater.de/de/spielplan/abc-a-painters-alphabet-eine-neue-zirkus-performance/3385",
       "start_date": "2026-10-10",
       "time_text": "12.00 Uhr",
-      "title": "ABC â A Painters Alphabet â Eine neue Zirkus-Performance",
+      "title": "ABC – A Painters Alphabet – Eine neue Zirkus-Performance",
       "venue": "GRIPS Podewil am Alex"
     },
-    "rec_34e10afffe995097cf36": {
+    "rec_399e86547de70e7246a0": {
       "age_min": 3,
       "categories": [
         "Theater"
@@ -21,7 +21,7 @@
       "source_url": "https://www.grips-theater.de/de/spielplan/abc-a-painters-alphabet-eine-neue-zirkus-performance/3386",
       "start_date": "2026-10-10",
       "time_text": "17.00 Uhr",
-      "title": "ABC â A Painters Alphabet â Eine neue Zirkus-Performance",
+      "title": "ABC – A Painters Alphabet – Eine neue Zirkus-Performance",
       "venue": "GRIPS Podewil am Alex"
     },
     "rec_598625deefbab727be4a": {
