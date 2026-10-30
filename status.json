@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T11:33:06.798210Z",
+  "generated_at": "2026-10-30T11:25:52.852264Z",
   "schema_name": "family-event",
   "healthy": true,
   "sources": [
@@ -8,10 +8,10 @@
       "id": "berlin-de-bezirke-kinder",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-10-29T11:33:06.798210Z",
-      "last_success_at": "2026-10-29T11:33:06.798210Z",
+      "checked_at": "2026-10-30T11:25:52.852264Z",
+      "last_success_at": "2026-10-30T11:25:52.852264Z",
       "consecutive_failures": 0,
-      "records": 100,
+      "records": 99,
       "previous_records": 100,
       "rejections": 0,
       "pages": 1,
@@ -33,27 +33,40 @@
         "title": 1.0
       },
       "baseline_rejection_rate": 0.0,
-      "records_digest": "3112aa4b68019412e520bbd8cf3317301e6c2e7078d4132bcd8c7d3910530c26",
-      "records_changed_at": "2026-10-29T11:33:06.798210Z",
+      "records_digest": "55e1421c046919dd667cad772cec3e28551b1549a42418900a338b73728e8b84",
+      "records_changed_at": "2026-10-30T11:25:52.852264Z",
       "error_kind": null,
       "error": null,
-      "note": null
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-10",
+        "checked_at": "2026-10-30T11:25:53.454633Z",
+        "pages": {
+          "https://www.berlin.de/wir-ueber-uns/impressum/": "740972db7ddee3e28f1da0dae9347196295e05e73a752c96e26a39b1dc26a648",
+          "https://www.berlin.de/robots.txt": "627abd6579def631b035c11aabeaf5bfdeb433f5fbd0f333731f3a4762152254"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
     },
     {
       "id": "grips-theater",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-10-29T11:33:06.798210Z",
-      "last_success_at": "2026-10-29T11:33:06.798210Z",
+      "checked_at": "2026-10-30T11:25:52.852264Z",
+      "last_success_at": "2026-10-30T11:25:52.852264Z",
       "consecutive_failures": 0,
-      "records": 144,
-      "previous_records": 148,
+      "records": 143,
+      "previous_records": 144,
       "rejections": 0,
       "pages": 1,
       "model_calls": 0,
       "cost_eur": 0.0,
       "field_fill_rates": {
-        "age_min": 0.9722222222222222,
+        "age_min": 0.972027972027972,
         "categories": 1.0,
         "indoor": 1.0,
         "source_url": 1.0,
@@ -64,7 +77,7 @@
       },
       "warnings": [],
       "baseline_fill_rates": {
-        "age_min": 0.9722222222222222,
+        "age_min": 0.972027972027972,
         "categories": 1.0,
         "indoor": 1.0,
         "source_url": 1.0,
@@ -74,27 +87,41 @@
         "venue": 1.0
       },
       "baseline_rejection_rate": 0.0,
-      "records_digest": "5294ecc50332654e426f80d008fe1c54a12d2ed674a25e0e88a4fa0886e4efc2",
-      "records_changed_at": "2026-10-29T11:33:06.798210Z",
+      "records_digest": "918eda05318a94c4f5abba325f783c4460e82ef9aa911a9bcbc350f1f367f81a",
+      "records_changed_at": "2026-10-30T11:25:52.852264Z",
       "error_kind": null,
       "error": null,
-      "note": null
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-10",
+        "checked_at": "2026-10-30T11:25:53.454633Z",
+        "pages": {
+          "https://www.grips-theater.de/de/service/impressum": "eda380e64f8bff107de9518eae0d81565f17ceddd90fcc386dbc8719a80acbaf",
+          "https://www.grips-theater.de/de/service/agb": "929268833092ce1ffc7462122b8b6c5a2dcdccd40b603f277708351977e678da",
+          "https://www.grips-theater.de/robots.txt": "absent"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
     },
     {
       "id": "theater-an-der-parkaue",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-10-29T11:33:06.798210Z",
-      "last_success_at": "2026-10-29T11:33:06.798210Z",
+      "checked_at": "2026-10-30T11:25:52.852264Z",
+      "last_success_at": "2026-10-30T11:25:52.852264Z",
       "consecutive_failures": 0,
-      "records": 96,
+      "records": 97,
       "previous_records": 96,
       "rejections": 4,
       "pages": 1,
       "model_calls": 0,
       "cost_eur": 0.0,
       "field_fill_rates": {
-        "age_min": 0.84375,
+        "age_min": 0.8350515463917526,
         "categories": 1.0,
         "district": 1.0,
         "indoor": 1.0,
@@ -108,7 +135,7 @@
       },
       "warnings": [],
       "baseline_fill_rates": {
-        "age_min": 0.84375,
+        "age_min": 0.8350515463917526,
         "categories": 1.0,
         "district": 1.0,
         "indoor": 1.0,
@@ -120,12 +147,26 @@
         "title": 1.0,
         "venue": 1.0
       },
-      "baseline_rejection_rate": 0.04,
-      "records_digest": "57260b8bb0c8ce85d40234a518dcd9352c6527ac5e51987fb1795609a00b38b6",
-      "records_changed_at": "2026-10-26T11:09:39.252557Z",
+      "baseline_rejection_rate": 0.039603960396039604,
+      "records_digest": "1cc20d4bce534f326733eef7feb37c67d2c71583d158d16c669c520dd2aa3427",
+      "records_changed_at": "2026-10-30T11:25:52.852264Z",
       "error_kind": null,
       "error": null,
-      "note": null
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-10",
+        "checked_at": "2026-10-30T11:25:53.454633Z",
+        "pages": {
+          "https://www.parkaue.de/impressum/": "137e3b8457135ddfc3153441a4a01cdd93bb74bbc37ace66e93b360ed2673eeb",
+          "https://www.parkaue.de/agb/": "3e16230c2d81f669162bfe1f2fcd8a316e88b8f162629d053088ddc3af44e5c2",
+          "https://www.parkaue.de/robots.txt": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
     }
   ]
 }
