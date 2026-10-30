@@ -27,8 +27,12 @@ gleanyard terms [-s ID] [--force]          # have the terms or robots.txt change
 gleanyard collect -s ID                    # real run for one source
 gleanyard collect --from-cache -s ID       # re-extract the last cached pages, no network
 gleanyard status                           # health of every source
+gleanyard changes [--since DATE]           # records added, changed or removed lately
 gleanyard repair plan                      # which broken sources a repair may attempt
 gleanyard repair check                     # may the uncommitted edit become a repair PR?
+gleanyard research check                   # may the new candidates become a research PR?
+gleanyard search [QUERY]                   # recipes in the public source registry
+gleanyard add RECIPE [--id ID]             # install one: disabled, rights pending
 gleanyard json-schema source               # exact shape of a source file
 gleanyard skill                            # refresh this file after upgrading gleanyard
 ```
@@ -39,14 +43,18 @@ either a bug or, when the change is meant, a reason to refresh the snapshot in t
 
 ## Procedure: Research
 
-Trigger: the owner asks for sources, or a scheduled research run.
+Trigger: the owner asks for sources, or a scheduled research run. When the `research`
+workflow is turned on, it runs this procedure unattended and opens the PR.
 
-1. Read `research.md` and `schema.yaml`. Search the web for pages that publish what the schema
-   describes. Prefer a feed (`.ics`, RSS, JSON API) over an HTML page.
+1. Read `research.md` and `schema.yaml`. Run `gleanyard search` with words from the brief: a
+   recipe that fits is a candidate too (write `recipe: <id>` in its candidate file). Search
+   the web for pages that publish what the schema describes. Prefer a feed (`.ics`, RSS, JSON
+   API) over an HTML page.
 2. For each URL run `gleanyard check URL`; skip hosts that are sources, candidates or excluded.
 3. Run `gleanyard probe URL`. Write `candidates/<host>.yaml` with `url`, `why`, the best probe
    option, and the legal pages the probe found.
-4. Open one PR with the new candidates. Do not set anything up yet.
+4. Check with `gleanyard research check`: new candidate files only, one per host, none for a
+   source or excluded host. Open one PR with the new candidates. Do not set anything up yet.
 
 ## Procedure: Set up a source
 
@@ -70,7 +78,8 @@ Trigger: a candidate the owner marked ready.
    `--force` to redraft an existing mapping. The mapping format is documented at
    https://kausalflow.github.io/gleanyard/.
 4. Save one fixture page to `tests/fixtures/<id>.<ext>` (small, public, no personal data),
-   then `gleanyard test -s <id> --update` to write `tests/fixtures/<id>.expected.json`.
+   then `gleanyard test -s <id> --update` to write `tests/fixtures/<id>.expected.json`. If the
+   fixture's events have passed, add `--today <date the page was saved>`.
    Commit both.
 5. Set `expect_empty: seasonal` only if the source is empty out of season. Set
    `expect_change_days` (for example 7) on sources whose records should change often, such as
@@ -78,6 +87,31 @@ Trigger: a candidate the owner marked ready.
 6. Fill `rights` from the terms you read; leave `review_status: pending` and `enabled: false`.
 7. Open a PR whose description is the output of `gleanyard try <id> --markdown`, plus the
    evidence file and your reading of the terms. The owner reviews, sets rights and enables.
+
+## Procedure: Add a source from the registry
+
+Trigger: the owner marks ready a candidate that names a `recipe`, or asks for a recipe.
+
+1. `gleanyard add <recipe> [--id <id>]`. It writes the source disabled with its rights
+   pending, plus its mapping, fixture, snapshot and the recipe's evidence, and removes it all
+   again if the project does not validate or the fixture does not replay. Fix a field the
+   project's schema names differently in the source file, never in the schema.
+2. The recipe's evidence is someone else's reading. Read the pages it lists yourself and write
+   your own `evidence/<id>/<today>-terms.yaml`, as in the setup procedure.
+3. Run `gleanyard try <id>` and `gleanyard test -s <id>`. Fill `rights` from your reading;
+   leave `review_status: pending` and `enabled: false`. Keep the `recipe` key.
+4. Open a PR as in the setup procedure. The owner reviews, sets rights and enables.
+
+## Procedure: Share a source in the registry
+
+Trigger: the owner asks to share a working source. Only the owner decides this.
+
+1. The source must have a fixture with a snapshot and a terms review. Its tier must allow
+   sharing at all: never share an `internal_only`, `unknown` or `blocked` source.
+2. In a checkout of the registry repo, run `gleanyard registry pack <id> --project <path>`
+   with `--maintainer`, `--description` and `--fixture-basis` (why the fixture may be
+   public; trim it to what the replay needs and keep personal data out), then
+   `gleanyard registry check`. Open the PR in the registry repo.
 
 ## Procedure: Repair
 
@@ -105,8 +139,9 @@ When the `repair` workflow is turned on, it runs this procedure unattended and o
 Trigger: a `terms` issue, or `gleanyard terms` prints `CHANGED` for a source.
 
 1. `gleanyard status --json` lists the changed pages under the source's `terms.changed`. Read
-   each page and the last `evidence/<id>/<date>-terms.yaml`.
-2. Write a new `evidence/<id>/<today>-terms.yaml` with the same shape: every page you read,
+   each page and the last `evidence/<folder>/<date>-terms.yaml`, where the folder is the
+   source's `evidence` key if set (one review shared by many sources) and its id otherwise.
+2. Write a new `evidence/<folder>/<today>-terms.yaml` with the same shape: every page you read,
    the relevant quote as it stands now, and your reading of what changed.
 3. If the new terms allow less than the source's `rights` say, propose the narrower `rights`
    (or `enabled: false`) in the same PR and say why; the owner decides. If nothing that

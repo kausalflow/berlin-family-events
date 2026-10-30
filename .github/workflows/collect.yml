@@ -21,7 +21,7 @@ jobs:
           path: data/raw
           key: raw-${{ github.run_id }}
           restore-keys: raw-
-      - run: pip install "gleanyard~=0.6.0"
+      - run: pip install "gleanyard~=0.8.0"
       - run: gleanyard validate
       - id: collect
         run: gleanyard collect
@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add status.json badges data/records data/review exports
+          git add status.json badges data/records data/review exports $(ls -d data/changes 2>/dev/null)
           git diff --cached --quiet || git commit -m "Collect $(date -u +%F)"
           git push
       - id: health
@@ -62,7 +62,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh label create terms --color 5319E7 --force
-          body=$(jq -r '"The terms or robots.txt of these sources changed since their review (see the procedure \"Review changed terms\"):\n" + ([.sources[] | select(.terms.changed // [] | length > 0) | "- `\(.id)`: \(.terms.changed | join(", "))"] | join("\n"))' status.json)
+          body=$(jq -r '"The terms or robots.txt of these sources changed since their review (see the procedure \"Review changed terms\"):\n" + ([.sources[] | {id, url: (.terms.changed // [])[]}] | group_by(.url) | map("- \(.[0].url) (\(length) source(s): \([.[:5][] | "`\(.id)`"] | join(", "))\(if length > 5 then " and \(length - 5) more" else "" end))") | join("\n"))' status.json)
           existing=$(gh issue list --label terms --state open --json number --jq '.[0].number // empty')
           if [ -z "$existing" ]; then
             gh issue create --label terms --title "Terms changed" --body "$body"
