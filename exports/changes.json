@@ -4,6 +4,3366 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_9d9faf461ce525f8320a:removed:2026-10-31T10:56:49.664804+00:00",
+      "title": "Removed: Das Herz eines Boxers / 2026-10-30 / 18.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-10-31T10:56:49.664804+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_9d9faf461ce525f8320a",
+          "title": "Das Herz eines Boxers",
+          "start_date": "2026-10-30",
+          "time_text": "18.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 12,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/das-herz-eines-boxers/3190",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-10-30T11:25:49.761056+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_7d5ab940e9ba50a7f7cc:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Königinnen, Zauberer und Gespenster - Ein Magischer Abend für Familien mit Kindern ab 8 Jahren (30.10.2026 18:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 18:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_7d5ab940e9ba50a7f7cc",
+          "title": "Königinnen, Zauberer und Gespenster - Ein Magischer Abend für Familien mit Kindern ab 8 Jahren (30.10.2026 18:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 18:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296801&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_f2f5d04c3ccfd65603d2:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Offene Geschichtenzeit in der Heinrich-Schulz-Bibliothek (30.10.2026 17:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 17:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_f2f5d04c3ccfd65603d2",
+          "title": "Offene Geschichtenzeit in der Heinrich-Schulz-Bibliothek (30.10.2026 17:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 17:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_440bb39fea8fcf6eb2bc:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Portugiesisch Vorlesen und Erzählen mit ehrenamtlichen Vorleser*innen in der Philipp-Schaeffer-Bibliothek (30.10.2026 17:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 17:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_440bb39fea8fcf6eb2bc",
+          "title": "Portugiesisch Vorlesen und Erzählen mit ehrenamtlichen Vorleser*innen in der Philipp-Schaeffer-Bibliothek (30.10.2026 17:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 17:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=287113&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7aef5d6d695db705e6d9:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Gruselwoche: Abschlussparty (30.10.2026 17:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 17:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_7aef5d6d695db705e6d9",
+          "title": "Gruselwoche: Abschlussparty (30.10.2026 17:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 17:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294475&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_eb77efc3c8b889445148:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Geschichtenzeit in der Eberhard-Alexander-Burgh-Bibliothek (30.10.2026 16:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_eb77efc3c8b889445148",
+          "title": "Geschichtenzeit in der Eberhard-Alexander-Burgh-Bibliothek (30.10.2026 16:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=276913&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_6137ef5daa6e8963588f:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Vorlesezeit in der Stadtteilbibliothek Lankwitz (30.10.2026 16:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_6137ef5daa6e8963588f",
+          "title": "Vorlesezeit in der Stadtteilbibliothek Lankwitz (30.10.2026 16:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=250450&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_5a18b37133e396dcd824:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: LEGO® Zeit (30.10.2026 16:00 - 18:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_5a18b37133e396dcd824",
+          "title": "LEGO® Zeit (30.10.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291661&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_9345312e0071b6d57fc9:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Bilderbuchkino (30.10.2026 16:00 - 17:15 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_9345312e0071b6d57fc9",
+          "title": "Bilderbuchkino (30.10.2026 16:00 - 17:15 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_d26bfb68617b9213b530:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Game 4U in der Bibliothek Schöneberg (30.10.2026 16:00 - 18:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_d26bfb68617b9213b530",
+          "title": "Game 4U in der Bibliothek Schöneberg (30.10.2026 16:00 - 18:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a6c3ccde65502b668d7f:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Vorlesen mit Hilal (30.10.2026 16:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_a6c3ccde65502b668d7f",
+          "title": "Vorlesen mit Hilal (30.10.2026 16:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285259&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_f86348210f2913fd354d:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Halloweenspecial LEGO® (30.10.2026 16:00 - 17:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_f86348210f2913fd354d",
+          "title": "Halloweenspecial LEGO® (30.10.2026 16:00 - 17:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289085&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7cc58b7534ad2282831f:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Bilderbuchkino in der Hansabibliothek (30.10.2026 16:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_7cc58b7534ad2282831f",
+          "title": "Bilderbuchkino in der Hansabibliothek (30.10.2026 16:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295784&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_739b635678523d8e427a:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Bib-Quiz: Happy Halloween (30.10.2026 16:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_739b635678523d8e427a",
+          "title": "Bib-Quiz: Happy Halloween (30.10.2026 16:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296408&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_171203c5a1b555be594d:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Monster Mash – Halloween in der Bibliothek (30.10.2026 16:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_171203c5a1b555be594d",
+          "title": "Monster Mash – Halloween in der Bibliothek (30.10.2026 16:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291179&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0d0182ad5d0371b5a4a9:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: FamilienNachmittag | Halloween - WarmUP (30.10.2026 15:30 - 17:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_0d0182ad5d0371b5a4a9",
+          "title": "FamilienNachmittag | Halloween - WarmUP (30.10.2026 15:30 - 17:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292777&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_3d0d0544721e91da3dde:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Brettspiele für Kinder – wöchentlicher Spieletreff für Kinder (30.10.2026 15:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_3d0d0544721e91da3dde",
+          "title": "Brettspiele für Kinder – wöchentlicher Spieletreff für Kinder (30.10.2026 15:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_61ec81d340ffe535363a:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Lust auf LEGO®? Bau mit uns! (30.10.2026 15:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_61ec81d340ffe535363a",
+          "title": "Lust auf LEGO®? Bau mit uns! (30.10.2026 15:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291667&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_063ff43a26b6d7b70a94:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Vorlesestunde in der Stadtteilbibliothek Frohnau (30.10.2026 15:00 - 16:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_063ff43a26b6d7b70a94",
+          "title": "Vorlesestunde in der Stadtteilbibliothek Frohnau (30.10.2026 15:00 - 16:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_13477112254eb04781a7:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Jeden 2. Freitag: Coding mit OSMO (30.10.2026 15:00 - 17:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_13477112254eb04781a7",
+          "title": "Jeden 2. Freitag: Coding mit OSMO (30.10.2026 15:00 - 17:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=268666&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_8136c5aded789ae3ef5c:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: PhantastischeSpielwelten | Spiele-Café in der Bibliothek (30.10.2026 15:00 - 18:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_8136c5aded789ae3ef5c",
+          "title": "PhantastischeSpielwelten | Spiele-Café in der Bibliothek (30.10.2026 15:00 - 18:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=271945&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_8f14a159c43979fce118:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Gruselige Tierwelt im Zoo Berlin (30.10.2026 15:00 - 16:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_8f14a159c43979fce118",
+          "title": "Gruselige Tierwelt im Zoo Berlin (30.10.2026 15:00 - 16:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291655&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_e2718c89b813def24dc9:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Gruselige Tierwelt im Tierpark Berlin (30.10.2026 15:00 - 16:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_e2718c89b813def24dc9",
+          "title": "Gruselige Tierwelt im Tierpark Berlin (30.10.2026 15:00 - 16:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=253261&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_3f502757ebf7c25fcde8:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Ferienprogramm: Gruseliges Halloween-Basteln (30.10.2026 15:00 - 17:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_3f502757ebf7c25fcde8",
+          "title": "Ferienprogramm: Gruseliges Halloween-Basteln (30.10.2026 15:00 - 17:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289076&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_00eae81226e46a0232b4:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Autorenlesung: \"Wanda\" mit Annika Scheffel (Azubi Wochen) (30.10.2026 15:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_00eae81226e46a0232b4",
+          "title": "Autorenlesung: \"Wanda\" mit Annika Scheffel (Azubi Wochen) (30.10.2026 15:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293278&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_44b9b99298beef785704:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Helenes Schauer Hour (30.10.2026 15:00 - 17:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_44b9b99298beef785704",
+          "title": "Helenes Schauer Hour (30.10.2026 15:00 - 17:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295493&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_688aa80df73f748a2141:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: LEGO® Bautag in der Dietrich-Bonhoeffer-Bibliothek! (30.10.2026 14:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_688aa80df73f748a2141",
+          "title": "LEGO® Bautag in der Dietrich-Bonhoeffer-Bibliothek! (30.10.2026 14:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291664&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_6e6a74ac21886b4955c2:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Vorlese-Stunde (30.10.2026 14:00 - 15:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_6e6a74ac21886b4955c2",
+          "title": "Vorlese-Stunde (30.10.2026 14:00 - 15:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=257029&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_82b43ee820e3b02d3c1a:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Harry Potter Party in der Bibliothek Lichtenrade (30.10.2026 14:00 - 17:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_82b43ee820e3b02d3c1a",
+          "title": "Harry Potter Party in der Bibliothek Lichtenrade (30.10.2026 14:00 - 17:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293794&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_3772eef13224bbce3095:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Halloween-Basteln (Azubi Wochen) (30.10.2026 14:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_3772eef13224bbce3095",
+          "title": "Halloween-Basteln (Azubi Wochen) (30.10.2026 14:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293281&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_32e82ff2c697dabbe522:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Kreatives Gaming in den Herbsferien – Wir bauen uns die Welt, wie sie uns gefällt! (30.10.2026 14:00 - 16:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_32e82ff2c697dabbe522",
+          "title": "Kreatives Gaming in den Herbsferien – Wir bauen uns die Welt, wie sie uns gefällt! (30.10.2026 14:00 - 16:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291529&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_95ea2d8aec5194c130e5:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Virtual Reality: Erlebe die Zukunft – mit Virtual Reality! (Alter: 14-18 J.) (30.10.2026 13:30 - 15:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 13:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_95ea2d8aec5194c130e5",
+          "title": "Virtual Reality: Erlebe die Zukunft – mit Virtual Reality! (Alter: 14-18 J.) (30.10.2026 13:30 - 15:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 13:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=288284&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a95ee67d5592303d4c5f:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Robo-Werkstatt | Coding für Kinder (30.10.2026 13:00 - 15:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 13:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_a95ee67d5592303d4c5f",
+          "title": "Robo-Werkstatt | Coding für Kinder (30.10.2026 13:00 - 15:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 13:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291101&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7c54efa57a0fab959855:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Krabbelgruppe „Büchermäuse“ (30.10.2026 12:00 - 14:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 12:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_7c54efa57a0fab959855",
+          "title": "Krabbelgruppe „Büchermäuse“ (30.10.2026 12:00 - 14:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 12:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296585&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_cf785277eacfa6c6c646:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (30.10.2026 10:00 - 19:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_cf785277eacfa6c6c646",
+          "title": "Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (30.10.2026 10:00 - 19:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_f900431499ad8f7696cd:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Gruselwoche: Wie klingt ein Monster Beat? (30.10.2026 10:00 - 13:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_f900431499ad8f7696cd",
+          "title": "Gruselwoche: Wie klingt ein Monster Beat? (30.10.2026 10:00 - 13:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292156&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_91d684e9637c2c1ba768:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Ferienprojekt: Design trifft Making (30.10.2026 09:30 - 16:30 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 09:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_91d684e9637c2c1ba768",
+          "title": "Ferienprojekt: Design trifft Making (30.10.2026 09:30 - 16:30 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 09:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294640&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_6f996404e1fc9f7a1da4:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Mobiles Familienbüro - Beratung für Eltern und Kinder (30.10.2026 09:00 - 13:00 Uhr) / 2026-10-30 / Fri, 30 Oct 2026 09:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_6f996404e1fc9f7a1da4",
+          "title": "Mobiles Familienbüro - Beratung für Eltern und Kinder (30.10.2026 09:00 - 13:00 Uhr)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 09:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=269947&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_eb0bb537e413411ae340:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (30.10.2026) / 2026-10-30 / Fri, 30 Oct 2026 00:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_eb0bb537e413411ae340",
+          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (30.10.2026)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 00:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_75253daf8f1b1bd0970b:removed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Removed: Kidsführungen für Kitas und Grundschulen & Buchbare Angebote (30.10.2026) / 2026-10-30 / Fri, 30 Oct 2026 00:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_75253daf8f1b1bd0970b",
+          "title": "Kidsführungen für Kitas und Grundschulen & Buchbare Angebote (30.10.2026)",
+          "start_date": "2026-10-30",
+          "time_text": "Fri, 30 Oct 2026 00:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=271366&ls=0&c=14&kategorie[50]=3&date_start=30.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-30T11:25:45.467900+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_9a1a42c377cac04aa413:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Lesemontag bei Weinerts (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_9a1a42c377cac04aa413",
+          "title": "Lesemontag bei Weinerts (02.11.2026 16:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=266521&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_9613214dfe31813d97c5:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Kamishibai Erzähltheater (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_9613214dfe31813d97c5",
+          "title": "Kamishibai Erzähltheater (02.11.2026 16:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=241924&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7b252ed33a8d98a7800c:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: LEGO ® Build the Change - Wir bauen die Veränderung in der Ingeborg-Drewitz-Bibliothek (02.11.2026 16:30 - 18:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_7b252ed33a8d98a7800c",
+          "title": "LEGO ® Build the Change - Wir bauen die Veränderung in der Ingeborg-Drewitz-Bibliothek (02.11.2026 16:30 - 18:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=233107&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_be1e3623f06ad6f9af2f:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Kamishibai in der Stadtteilbibliothek Lankwitz (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_be1e3623f06ad6f9af2f",
+          "title": "Kamishibai in der Stadtteilbibliothek Lankwitz (02.11.2026 16:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=250429&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_59ffb75ee0eb31131685:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Bilderbuchkino mit den Stadtteilmüttern (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_59ffb75ee0eb31131685",
+          "title": "Bilderbuchkino mit den Stadtteilmüttern (02.11.2026 16:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296681&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_e35a34c2d6e8266ddb10:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Hausaufgabenhilfe für die 1.-10. Klasse („Lern mit mir!“) (02.11.2026 16:00 - 18:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_e35a34c2d6e8266ddb10",
+          "title": "Hausaufgabenhilfe für die 1.-10. Klasse („Lern mit mir!“) (02.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289127&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_42760857e3008b4c8c31:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Hausaufgabenhilfe für die 3.-6. Klasse (02.11.2026 16:00 - 18:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_42760857e3008b4c8c31",
+          "title": "Hausaufgabenhilfe für die 3.-6. Klasse (02.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289133&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_10786f16df3de83d03ad:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Bilderbuchkino in der Stadtteilbibliothek Reinickendorf-West (02.11.2026 16:00 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_10786f16df3de83d03ad",
+          "title": "Bilderbuchkino in der Stadtteilbibliothek Reinickendorf-West (02.11.2026 16:00 - 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a00c4272e09b4a5b5c9c:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Englische Vorlesestunde | English Story Time (02.11.2026 16:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a00c4272e09b4a5b5c9c",
+          "title": "Englische Vorlesestunde | English Story Time (02.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295072&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_f9c4c2b7016a1dbb06c1:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Drinnen oder draußen spielen (02.11.2026 16:00 - 18:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_f9c4c2b7016a1dbb06c1",
+          "title": "Drinnen oder draußen spielen (02.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=266308&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_188d92be59bb512e91f2:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Bastel-Montag (02.11.2026 16:00 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_188d92be59bb512e91f2",
+          "title": "Bastel-Montag (02.11.2026 16:00 - 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a60c954c8af3c7a55064:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Wir lesen vor (02.11.2026 16:00 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a60c954c8af3c7a55064",
+          "title": "Wir lesen vor (02.11.2026 16:00 - 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=276031&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_ccd3fb43b47cd952c536:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Vorlesezeit mit Lesewelt e.V. (02.11.2026 16:00 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_ccd3fb43b47cd952c536",
+          "title": "Vorlesezeit mit Lesewelt e.V. (02.11.2026 16:00 - 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=252103&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_8a4f665eae7a7db5c733:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Montags-Spielrunde (02.11.2026 16:00 - 18:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_8a4f665eae7a7db5c733",
+          "title": "Montags-Spielrunde (02.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=279082&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_19bedc9c95f2c61876b6:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: NEU Spielenachmittag für Kinder (02.11.2026 16:00 - 17:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_19bedc9c95f2c61876b6",
+          "title": "NEU Spielenachmittag für Kinder (02.11.2026 16:00 - 17:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=286027&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0231bdaedbd4d53b6c06:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: PlanckPlay Drop-In Workshop (02.11.2026 16:00 - 17:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_0231bdaedbd4d53b6c06",
+          "title": "PlanckPlay Drop-In Workshop (02.11.2026 16:00 - 17:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296411&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_97655e0903ca00c847f6:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Theater OOPSALA präsentiert: \"O je, Tannenbaum\" in der Bibliothek Lichtenrade (02.11.2026 16:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_97655e0903ca00c847f6",
+          "title": "Theater OOPSALA präsentiert: \"O je, Tannenbaum\" in der Bibliothek Lichtenrade (02.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295274&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_3d746db87e2b9f4c6464:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: MitSpielen: Gaming Lounge in der Bibliothek am Luisenbad (02.11.2026 15:30 - 18:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 15:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_3d746db87e2b9f4c6464",
+          "title": "MitSpielen: Gaming Lounge in der Bibliothek am Luisenbad (02.11.2026 15:30 - 18:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 15:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_cc72567cc59cc8be399d:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Makerspace in der Ehm-Welk-Bibliothek (02.11.2026 15:00 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_cc72567cc59cc8be399d",
+          "title": "Makerspace in der Ehm-Welk-Bibliothek (02.11.2026 15:00 - 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=275797&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_1eb661f4c9a403f6d01d:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Laternen Workshop (02.11.2026 15:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_1eb661f4c9a403f6d01d",
+          "title": "Laternen Workshop (02.11.2026 15:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294997&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_b4fbf73ab8044ba18a56:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Digitale Spielwiese in der Bibliothek Marienfelde (02.11.2026 15:00 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_b4fbf73ab8044ba18a56",
+          "title": "Digitale Spielwiese in der Bibliothek Marienfelde (02.11.2026 15:00 - 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=282772&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7f749cf93b68ca194d19:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Leseclub (02.11.2026 14:45 - 15:45 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 14:45:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_7f749cf93b68ca194d19",
+          "title": "Leseclub (02.11.2026 14:45 - 15:45 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 14:45:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=233446&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_57eed0298be47e4458a3:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Wer wird Labor-Champion? Die Wissenschafts-Olympiade zum Mitmachen (02.11.2026 14:00 - 18:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_57eed0298be47e4458a3",
+          "title": "Wer wird Labor-Champion? Die Wissenschafts-Olympiade zum Mitmachen (02.11.2026 14:00 - 18:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295081&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_45fa078950091874304e:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Das »Digital-Zebra« - Die öffentliche Digital-Beratung (02.11.2026 13:00 - 15:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 13:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_45fa078950091874304e",
+          "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung (02.11.2026 13:00 - 15:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 13:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_b5f92e1aeaa54f669d90:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: DigiQuest (02.11.2026 13:00 - 18:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 13:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_b5f92e1aeaa54f669d90",
+          "title": "DigiQuest (02.11.2026 13:00 - 18:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 13:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_b3b418a13fd3e869470b:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Krabbelgruppe „Büchermäuse“ (02.11.2026 12:00 - 14:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 12:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_b3b418a13fd3e869470b",
+          "title": "Krabbelgruppe „Büchermäuse“ (02.11.2026 12:00 - 14:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 12:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296585&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_088820b86d701d88080e:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Das »Digital-Zebra« - Die öffentliche Digital-Beratung (02.11.2026 10:00 - 12:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_088820b86d701d88080e",
+          "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung (02.11.2026 10:00 - 12:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a946241e6be1ddbc597e:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Ausstellung \"Mobile Kinder\" in der Bibliothek Schöneberg (02.11.2026 10:00 - 19:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a946241e6be1ddbc597e",
+          "title": "Ausstellung \"Mobile Kinder\" in der Bibliothek Schöneberg (02.11.2026 10:00 - 19:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296810&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_b18f0aa693b2729028f0:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (02.11.2026 10:00 - 19:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_b18f0aa693b2729028f0",
+          "title": "Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (02.11.2026 10:00 - 19:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7b8af09ba3b50776b9cb:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Krabbeltreffen (02.11.2026 10:00 - 11:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_7b8af09ba3b50776b9cb",
+          "title": "Krabbeltreffen (02.11.2026 10:00 - 11:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=290843&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_23850bb8ddf524c7c2f1:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (02.11.2026) / 2026-11-02 / Mon, 02 Nov 2026 00:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_23850bb8ddf524c7c2f1",
+          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (02.11.2026)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 00:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a65a07969aacdb2d8bd0:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Der große Popolino (01.11.2026 16:00 Uhr) / 2026-11-01 / Sun, 01 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a65a07969aacdb2d8bd0",
+          "title": "Der große Popolino (01.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-01",
+          "time_text": "Sun, 01 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295166&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_c891da4b62a2949b131c:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Bilderbuchkino in der Bibliothek Tempelhof (01.11.2026 15:30 - 16:00 Uhr) / 2026-11-01 / Sun, 01 Nov 2026 15:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_c891da4b62a2949b131c",
+          "title": "Bilderbuchkino in der Bibliothek Tempelhof (01.11.2026 15:30 - 16:00 Uhr)",
+          "start_date": "2026-11-01",
+          "time_text": "Sun, 01 Nov 2026 15:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_5c532b5949bad0854623:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Scary Tales (01.11.2026 14:00 Uhr) / 2026-11-01 / Sun, 01 Nov 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_5c532b5949bad0854623",
+          "title": "Scary Tales (01.11.2026 14:00 Uhr)",
+          "start_date": "2026-11-01",
+          "time_text": "Sun, 01 Nov 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295427&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a9e0a09fbe30517d3547:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Theater auf dem Bügelbrett - Hexe auf Probe (01.11.2026 14:00 Uhr) / 2026-11-01 / Sun, 01 Nov 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a9e0a09fbe30517d3547",
+          "title": "Theater auf dem Bügelbrett - Hexe auf Probe (01.11.2026 14:00 Uhr)",
+          "start_date": "2026-11-01",
+          "time_text": "Sun, 01 Nov 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=290078&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7262134c437388832475:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: \"Zitadellen- & FamilienSonntag\" - kostenfrei (01.11.2026 10:00 - 17:00 Uhr) / 2026-11-01 / Sun, 01 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_7262134c437388832475",
+          "title": "\"Zitadellen- & FamilienSonntag\" - kostenfrei (01.11.2026 10:00 - 17:00 Uhr)",
+          "start_date": "2026-11-01",
+          "time_text": "Sun, 01 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=156876&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0fe54b6b8584af5e3f9b:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (01.11.2026) / 2026-11-01 / Sun, 01 Nov 2026 00:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_0fe54b6b8584af5e3f9b",
+          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (01.11.2026)",
+          "start_date": "2026-11-01",
+          "time_text": "Sun, 01 Nov 2026 00:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_9d9f8e63c8f3d5e5b288:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Der große Popolino (31.10.2026 16:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_9d9f8e63c8f3d5e5b288",
+          "title": "Der große Popolino (31.10.2026 16:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292135&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_c1858acd7ce079fa1189:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Pflasterpass Bronze (31.10.2026 15:00 - 15:45 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_c1858acd7ce079fa1189",
+          "title": "Pflasterpass Bronze (31.10.2026 15:00 - 15:45 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296738&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_3536902159abf07976d5:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Gruselige Tierwelt im Tierpark Berlin (31.10.2026 15:00 - 16:30 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_3536902159abf07976d5",
+          "title": "Gruselige Tierwelt im Tierpark Berlin (31.10.2026 15:00 - 16:30 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=253261&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_8c11c46f66726e28356a:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Move & Groove: Patchwork-Tanzwokshop (31.10.2026 15:00 - 16:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_8c11c46f66726e28356a",
+          "title": "Move & Groove: Patchwork-Tanzwokshop (31.10.2026 15:00 - 16:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296732&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_4c71bc92ff1412911def:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Wortschätze - Erzählstunde in der Jurte (31.10.2026 15:00 - 16:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_4c71bc92ff1412911def",
+          "title": "Wortschätze - Erzählstunde in der Jurte (31.10.2026 15:00 - 16:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291382&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_29939018433e812ed706:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Gruselige Tierwelt im Zoo Berlin (31.10.2026 15:00 - 16:30 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_29939018433e812ed706",
+          "title": "Gruselige Tierwelt im Zoo Berlin (31.10.2026 15:00 - 16:30 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291655&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a98fcba0263641066c1f:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Pflasterpass Bronze (31.10.2026 14:00 - 14:45 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a98fcba0263641066c1f",
+          "title": "Pflasterpass Bronze (31.10.2026 14:00 - 14:45 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296738&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_7b638455a925fa8b9055:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Gruselwoche: Das Grusical Corinna Bilke und ihre Skelett-Band laden zum gemeinsamen Gruseln, Mitsingen und Tanzen ein! (31.10.2026 14:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_7b638455a925fa8b9055",
+          "title": "Gruselwoche: Das Grusical Corinna Bilke und ihre Skelett-Band laden zum gemeinsamen Gruseln, Mitsingen und Tanzen ein! (31.10.2026 14:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294484&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_60b2ceb9a11538c69b45:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Comics zeichnen mit Meike Dölp (31.10.2026 14:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 14:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_60b2ceb9a11538c69b45",
+          "title": "Comics zeichnen mit Meike Dölp (31.10.2026 14:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 14:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293725&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_b44dec6ce7632eefe452:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Familien-Tüftel-Donnerstag im Märker Space -Makey Makey (31.10.2026 13:00 - 15:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 13:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_b44dec6ce7632eefe452",
+          "title": "Familien-Tüftel-Donnerstag im Märker Space -Makey Makey (31.10.2026 13:00 - 15:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 13:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289814&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_487ccb4042af7e6fa88f:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Herbst in Stichen – Workshop zur freien Stickerei (31.10.2026 13:00 - 16:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 13:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_487ccb4042af7e6fa88f",
+          "title": "Herbst in Stichen – Workshop zur freien Stickerei (31.10.2026 13:00 - 16:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 13:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296744&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_c82005eacdb8982325d3:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Kreativ mit Zuversicht - Zine-Workshop für alle (31.10.2026 13:00 - 16:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 13:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_c82005eacdb8982325d3",
+          "title": "Kreativ mit Zuversicht - Zine-Workshop für alle (31.10.2026 13:00 - 16:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 13:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293173&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_ed217ee2296dc7ad255e:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Kinderschminken (31.10.2026 12:30 - 16:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 12:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_ed217ee2296dc7ad255e",
+          "title": "Kinderschminken (31.10.2026 12:30 - 16:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 12:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296741&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_229172ab0d5bb8a3ad0a:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: \"Zwischen den Seiten\" - Begegnungsformat für Mädchen und junge Frauen (31.10.2026 12:00 - 13:30 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 12:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_229172ab0d5bb8a3ad0a",
+          "title": "\"Zwischen den Seiten\" - Begegnungsformat für Mädchen und junge Frauen (31.10.2026 12:00 - 13:30 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 12:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296087&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_9c0e08a0f02782b36376:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Basteln mit Daniela (31.10.2026 11:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 11:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_9c0e08a0f02782b36376",
+          "title": "Basteln mit Daniela (31.10.2026 11:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 11:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285508&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0f802e944eeedcc3cbbd:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Nähmaschinen Workshop für Kinder (31.10.2026 11:00 - 13:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 11:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_0f802e944eeedcc3cbbd",
+          "title": "Nähmaschinen Workshop für Kinder (31.10.2026 11:00 - 13:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 11:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=290750&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_26050aafeeddc4192c23:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: FamilienSamstag TOMMI-Spiele testen für die ganze Familie (31.10.2026 11:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 11:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_26050aafeeddc4192c23",
+          "title": "FamilienSamstag TOMMI-Spiele testen für die ganze Familie (31.10.2026 11:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 11:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293806&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_4042c06823c814257618:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: MeerMärchen - von Fischen, Fischern und dem Zauber der Wellen | Erzähltheater mit Kathleen Rappolt (31.10.2026 11:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 11:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_4042c06823c814257618",
+          "title": "MeerMärchen - von Fischen, Fischern und dem Zauber der Wellen | Erzähltheater mit Kathleen Rappolt (31.10.2026 11:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 11:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293626&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T11:25:45.467900+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_8fbf1d144e3d3395be44:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Workshop: Kreativ trifft digital für Kinder – 3D-Modelle basteln (31.10.2026 10:30 - 13:30 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 10:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_8fbf1d144e3d3395be44",
+          "title": "Workshop: Kreativ trifft digital für Kinder – 3D-Modelle basteln (31.10.2026 10:30 - 13:30 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 10:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=293743&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a6ff68bd89707fdbea32:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (31.10.2026 10:00 - 14:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a6ff68bd89707fdbea32",
+          "title": "Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (31.10.2026 10:00 - 14:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_3eb9e9e798a7666479b1:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Halloween in der Gottfried-Benn-Bibliothek (31.10.2026 10:00 - 14:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_3eb9e9e798a7666479b1",
+          "title": "Halloween in der Gottfried-Benn-Bibliothek (31.10.2026 10:00 - 14:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=290783&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_93401d3fdf209c7115a2:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: FamilienSamstag I Auf der Suche nach der Dunkelheit. Die Gute-Licht-Geschichte (31.10.2026 10:00 Uhr) / 2026-10-31 / Sat, 31 Oct 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_93401d3fdf209c7115a2",
+          "title": "FamilienSamstag I Auf der Suche nach der Dunkelheit. Die Gute-Licht-Geschichte (31.10.2026 10:00 Uhr)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296861&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_d410c40d1ae87044083a:changed:2026-10-31T10:56:45.235714+00:00",
+      "title": "Changed: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (31.10.2026) / 2026-10-31 / Sat, 31 Oct 2026 00:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_d410c40d1ae87044083a",
+          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (31.10.2026)",
+          "start_date": "2026-10-31",
+          "time_text": "Sat, 31 Oct 2026 00:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-29T11:32:58.927034+00:00"
+          }
+        },
+        "fields": [
+          "source_url"
+        ]
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_105f3f2f96eb99a4b936:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Das »Digital-Zebra« - Die öffentliche Digital-Beratung (03.11.2026 16:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_105f3f2f96eb99a4b936",
+          "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung (03.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_23547c981ba6cbb89890:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Hausaufgabenhilfe für die 1.-10. Klasse („Lern mit mir!“) (03.11.2026 16:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_23547c981ba6cbb89890",
+          "title": "Hausaufgabenhilfe für die 1.-10. Klasse („Lern mit mir!“) (03.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289127&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_e516a5b79030b9c2be7d:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Hausaufgabenhilfe für die 1.-6. Klasse (03.11.2026 16:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_e516a5b79030b9c2be7d",
+          "title": "Hausaufgabenhilfe für die 1.-6. Klasse (03.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289115&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_8afab0c4b8f577cd8750:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Gaming mit der Switch 2 (03.11.2026 16:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_8afab0c4b8f577cd8750",
+          "title": "Gaming mit der Switch 2 (03.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=297092&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0f360d1214ebc1b37f2c:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Bibliotheksnachmittag für die Kleinsten (03.11.2026 16:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_0f360d1214ebc1b37f2c",
+          "title": "Bibliotheksnachmittag für die Kleinsten (03.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=241693&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_e38b0854fbfdf68cb609:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Vorlesestunde mit Lesewelt e.V. in der Adolf-Reichwein-Bibliothek (03.11.2026 16:00 - 17:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_e38b0854fbfdf68cb609",
+          "title": "Vorlesestunde mit Lesewelt e.V. in der Adolf-Reichwein-Bibliothek (03.11.2026 16:00 - 17:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_36d1b2df3be00ad75557:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Vorlesen für Kinder in der Hansabibliothek (03.11.2026 16:00 - 17:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_36d1b2df3be00ad75557",
+          "title": "Vorlesen für Kinder in der Hansabibliothek (03.11.2026 16:00 - 17:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=287119&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_b9a4dfb7c2376c9d2532:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Elternsprechstunde: Handy, Social Media und Co - in der Ingeborg-Drewitz-Bibliothek (03.11.2026 16:00 - 17:30 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_b9a4dfb7c2376c9d2532",
+          "title": "Elternsprechstunde: Handy, Social Media und Co - in der Ingeborg-Drewitz-Bibliothek (03.11.2026 16:00 - 17:30 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=275908&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_ba970cf67c27a8ee73ec:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Gaming mit der Switch 2 (03.11.2026 16:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_ba970cf67c27a8ee73ec",
+          "title": "Gaming mit der Switch 2 (03.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0d18f34909aa8e88cb38:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Papa und Kind Spielnachmittag (03.11.2026 16:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_0d18f34909aa8e88cb38",
+          "title": "Papa und Kind Spielnachmittag (03.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=236278&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_253d5cbfdae1722c0b93:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Kamishibai in der Margarete-Kubicka-Bibliothek (03.11.2026 16:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_253d5cbfdae1722c0b93",
+          "title": "Kamishibai in der Margarete-Kubicka-Bibliothek (03.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=173868&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_e55e68c09cffc8f96cac:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Gemeinsam Switch Labo basteln und spielen (03.11.2026 16:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_e55e68c09cffc8f96cac",
+          "title": "Gemeinsam Switch Labo basteln und spielen (03.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=266311&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_3e74f5c18b59f57050e2:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Podesthelden: Bilderbuchkino, Kamishibai & Malen, Basteln (03.11.2026 16:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_3e74f5c18b59f57050e2",
+          "title": "Podesthelden: Bilderbuchkino, Kamishibai & Malen, Basteln (03.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=242110&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0cc3bca2addc0ad5e2da:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Bibliothek trifft Nachbarschaft: Gemeinsames Häkeln und Stricken (03.11.2026 16:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_0cc3bca2addc0ad5e2da",
+          "title": "Bibliothek trifft Nachbarschaft: Gemeinsames Häkeln und Stricken (03.11.2026 16:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=266140&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_4c4c491038231ac68e75:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Vorlesen für Kinder (03.11.2026 16:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_4c4c491038231ac68e75",
+          "title": "Vorlesen für Kinder (03.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=266524&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_13336e3d517dee2c7e01:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: PlanckPlay Drop-In Workshop (03.11.2026 16:00 - 17:30 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_13336e3d517dee2c7e01",
+          "title": "PlanckPlay Drop-In Workshop (03.11.2026 16:00 - 17:30 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296411&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a9aff6aa17bb17a91288:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Gretchens Märchenstunde (03.11.2026 16:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 16:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_a9aff6aa17bb17a91288",
+          "title": "Gretchens Märchenstunde (03.11.2026 16:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 16:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=295526&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_f2630908b3252657e689:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: MitSpielen: Gaming Lounge in der Bibliothek am Luisenbad (03.11.2026 15:30 - 18:30 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 15:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_f2630908b3252657e689",
+          "title": "MitSpielen: Gaming Lounge in der Bibliothek am Luisenbad (03.11.2026 15:30 - 18:30 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 15:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_e24354427a39e56e56e6:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Hausaufgabenhilfe für die 3.-6. Klasse (03.11.2026 15:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_e24354427a39e56e56e6",
+          "title": "Hausaufgabenhilfe für die 3.-6. Klasse (03.11.2026 15:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289133&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_0b72961c90f5b97236ad:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Hausaufgabenhilfe für die 1.-6. Klasse (03.11.2026 15:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_0b72961c90f5b97236ad",
+          "title": "Hausaufgabenhilfe für die 1.-6. Klasse (03.11.2026 15:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289145&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_4021ba1a775d5e725be6:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Geschichten-Kiste (03.11.2026 15:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_4021ba1a775d5e725be6",
+          "title": "Geschichten-Kiste (03.11.2026 15:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=270517&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_d152dd6530c6fe67b4fb:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Spielenachmittag in der Bibliothek Lichtenrade (03.11.2026 15:00 - 18:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 15:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_d152dd6530c6fe67b4fb",
+          "title": "Spielenachmittag in der Bibliothek Lichtenrade (03.11.2026 15:00 - 18:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 15:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=224079&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_699f919c7037b49a6202:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Das »Digital-Zebra« - Die öffentliche Digital-Beratung (03.11.2026 13:00 - 15:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 13:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_699f919c7037b49a6202",
+          "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung (03.11.2026 13:00 - 15:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 13:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_a6a47f1417b56120f5d1:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Comic-Lesung: Andrea Offermann – Herr Werner wird zum Dieb (03.11.2026 11:00 - 12:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 11:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_a6a47f1417b56120f5d1",
+          "title": "Comic-Lesung: Andrea Offermann – Herr Werner wird zum Dieb (03.11.2026 11:00 - 12:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 11:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294289&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_1c7d1be3b9ed02b0fd11:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Ausstellung \"Mobile Kinder\" in der Bibliothek Schöneberg (03.11.2026 10:00 - 19:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_1c7d1be3b9ed02b0fd11",
+          "title": "Ausstellung \"Mobile Kinder\" in der Bibliothek Schöneberg (03.11.2026 10:00 - 19:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296810&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_faa59ad8590061def86e:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Krabbelgruppen im Kindercafé des Stadtteilzentrums Kaulsdorf (03.11.2026 10:00 - 12:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_faa59ad8590061def86e",
+          "title": "Krabbelgruppen im Kindercafé des Stadtteilzentrums Kaulsdorf (03.11.2026 10:00 - 12:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=236290&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_67de2fa83c4683eae6ba:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (03.11.2026 10:00 - 19:30 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_67de2fa83c4683eae6ba",
+          "title": "Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (03.11.2026 10:00 - 19:30 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_cf60845ebf6de24cc4ac:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: „Paula, die Leseratte : Geschichten von Büchern und Buchstaben zum Lesen, Lachen und Lernen in der Schule und daheim“ mit der Illustratorin Antje Püpke (03.11.2026 10:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 10:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_cf60845ebf6de24cc4ac",
+          "title": "„Paula, die Leseratte : Geschichten von Büchern und Buchstaben zum Lesen, Lachen und Lernen in der Schule und daheim“ mit der Illustratorin Antje Püpke (03.11.2026 10:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 10:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=286768&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_883dc32ad7c53d6a1baa:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Comic-Lesung: Inga Steinmetz – Felis Geheimnis (03.11.2026 09:00 - 10:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 09:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_883dc32ad7c53d6a1baa",
+          "title": "Comic-Lesung: Inga Steinmetz – Felis Geheimnis (03.11.2026 09:00 - 10:00 Uhr)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 09:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294283&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_829b2406499a4d819357:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (03.11.2026) / 2026-11-03 / Tue, 03 Nov 2026 00:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_829b2406499a4d819357",
+          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (03.11.2026)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 00:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_d88d9b7ffbc7b3fbfa90:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Kidsführungen für Kitas und Grundschulen & Buchbare Angebote (03.11.2026) / 2026-11-03 / Tue, 03 Nov 2026 00:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_d88d9b7ffbc7b3fbfa90",
+          "title": "Kidsführungen für Kitas und Grundschulen & Buchbare Angebote (03.11.2026)",
+          "start_date": "2026-11-03",
+          "time_text": "Tue, 03 Nov 2026 00:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=271366&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_5592087013bf544861a5:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Vorlesen und Erzählen mit ehrenamtlichen Vorleser*innen in der Philipp-Schaeffer-Bibliothek (02.11.2026 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 17:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_5592087013bf544861a5",
+          "title": "Vorlesen und Erzählen mit ehrenamtlichen Vorleser*innen in der Philipp-Schaeffer-Bibliothek (02.11.2026 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 17:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=287107&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_cf9402ff5ecf76afe424:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Wissen zwischen Büchern: Von der Steinzeit bis ins Plastik- und Silizium-Zeitalter - und dann? Gemeinsam erfinden wir neue Materialien für eine bessere Zukunft. (02.11.2026 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 17:00:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_cf9402ff5ecf76afe424",
+          "title": "Wissen zwischen Büchern: Von der Steinzeit bis ins Plastik- und Silizium-Zeitalter - und dann? Gemeinsam erfinden wir neue Materialien für eine bessere Zukunft. (02.11.2026 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 17:00:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296867&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_80cd3b9f6895adca9a10:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Erzählzeit in der Dietrich-Bonhoeffer-Bibliothek (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_80cd3b9f6895adca9a10",
+          "title": "Erzählzeit in der Dietrich-Bonhoeffer-Bibliothek (02.11.2026 16:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=277576&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_83b4a2f1d3054bed6037:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Bilderbuchkino (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_83b4a2f1d3054bed6037",
+          "title": "Bilderbuchkino (02.11.2026 16:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_63234f715dab87c4216a:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Vorlesestunde in der Bibliothek am Schäfersee (02.11.2026 16:30 - 17:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_63234f715dab87c4216a",
+          "title": "Vorlesestunde in der Bibliothek am Schäfersee (02.11.2026 16:30 - 17:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_854298b6ee641eb35379:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Vorlesestunde in der Bibliothek im Märkischen Viertel (02.11.2026 16:30 - 17:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_854298b6ee641eb35379",
+          "title": "Vorlesestunde in der Bibliothek im Märkischen Viertel (02.11.2026 16:30 - 17:30 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
+      "id": "rec_c91226ea9b869407c6b6:added:2026-10-31T10:56:45.235714+00:00",
+      "title": "Added: Bilderbuchgeschichten ab 3 Jahren (02.11.2026 16:30 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
+      "date_published": "2026-10-31T10:56:45.235714+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_c91226ea9b869407c6b6",
+          "title": "Bilderbuchgeschichten ab 3 Jahren (02.11.2026 16:30 - 17:00 Uhr)",
+          "start_date": "2026-11-02",
+          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
+          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285673&ls=0&c=14&kategorie[50]=3&date_start=31.10.2026",
+          "_source": {
+            "source_id": "berlin-de-bezirke-kinder",
+            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
+            "retrieved_at": "2026-10-31T10:56:45.212515+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:56:45.212515+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
+    },
+    {
       "id": "rec_b338a2ccce2563f9ca8c:changed:2026-10-30T11:25:52.849338+00:00",
       "title": "Changed: Verbinden statt Spalten / 2026-12-11 / 10:00 - 16:30 / Theater an der Parkaue",
       "date_published": "2026-10-30T11:25:52.849338+00:00",
