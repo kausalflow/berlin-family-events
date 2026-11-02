@@ -4,6 +4,64 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_d26377ba6646fef693f1:removed:2026-11-02T13:32:42.897005+00:00",
+      "title": "Removed: Linie 1 / 2026-11-01 / 18.00 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-02T13:32:42.897005+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_d26377ba6646fef693f1",
+          "title": "Linie 1",
+          "start_date": "2026-11-01",
+          "time_text": "18.00 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "age_min": 16,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/linie-1/3302",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-01T11:51:48.942169+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_f641b6a527c0af6fa304:removed:2026-11-02T13:32:42.897005+00:00",
+      "title": "Removed: aneinander - vorbei / 2026-11-01 / 11.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-02T13:32:42.897005+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_f641b6a527c0af6fa304",
+          "title": "aneinander - vorbei",
+          "start_date": "2026-11-01",
+          "time_text": "11.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 2,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/aneinander-vorbei/3244",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-01T11:51:48.942169+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
       "id": "rec_0dc3a1eb76bee2dab902:removed:2026-11-01T11:51:49.019153+00:00",
       "title": "Removed: Linie 1 / 2026-10-31 / 19.30 Uhr / GRIPS Hansaplatz",
       "date_published": "2026-11-01T11:51:49.019153+00:00",
