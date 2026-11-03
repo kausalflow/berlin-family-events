@@ -4,6 +4,35 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_c82bbc59b31c45566b72:removed:2026-11-03T12:50:07.863113+00:00",
+      "title": "Removed: aneinander - vorbei / 2026-11-02 / 10.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-03T12:50:07.863113+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_c82bbc59b31c45566b72",
+          "title": "aneinander - vorbei",
+          "start_date": "2026-11-02",
+          "time_text": "10.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 2,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/aneinander-vorbei/3245",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-02T13:32:42.806934+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
       "id": "rec_d26377ba6646fef693f1:removed:2026-11-02T13:32:42.897005+00:00",
       "title": "Removed: Linie 1 / 2026-11-01 / 18.00 Uhr / GRIPS Hansaplatz",
       "date_published": "2026-11-02T13:32:42.897005+00:00",
