@@ -4,6 +4,64 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_8456f2b2ddc977c26817:removed:2026-11-08T11:57:25.246824+00:00",
+      "title": "Removed: #diewelle / 2026-11-07 / 19.30 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-08T11:57:25.246824+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_8456f2b2ddc977c26817",
+          "title": "#diewelle",
+          "start_date": "2026-11-07",
+          "time_text": "19.30 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "age_min": 14,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/diewelle/3250",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-07T11:45:06.710021+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_d2a5fb167c08d8161f9b:removed:2026-11-08T11:57:25.246824+00:00",
+      "title": "Removed: KUCKUCKSNEST / 2026-11-07 / 16.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-08T11:57:25.246824+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_d2a5fb167c08d8161f9b",
+          "title": "KUCKUCKSNEST",
+          "start_date": "2026-11-07",
+          "time_text": "16.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 10,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/kuckucksnest/3249",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-07T11:45:06.710021+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
       "id": "rec_0fc4ae66cab66b3535ba:removed:2026-11-07T11:45:10.122653+00:00",
       "title": "Removed: Preisverleihung Berliner Stücke­preis für junges Publikum / 2026-11-06 / 20:00 / Theater an der Parkaue",
       "date_published": "2026-11-07T11:45:10.122653+00:00",
@@ -11843,64 +11901,6 @@
             "retrieved_at": "2026-11-03T12:50:07.785169+00:00",
             "mode": "selectors",
             "first_seen": "2026-10-29T11:33:03.286660+00:00"
-          }
-        }
-      },
-      "url": "https://www.grips-theater.de/de/spielplan"
-    },
-    {
-      "id": "rec_729aa21191bda2cc18f6:removed:2026-11-04T13:00:42.199814+00:00",
-      "title": "Removed: Irgendwo da oben / 2026-11-03 / 10.00 Uhr / GRIPS Podewil am Alex",
-      "date_published": "2026-11-04T13:00:42.199814+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_729aa21191bda2cc18f6",
-          "title": "Irgendwo da oben",
-          "start_date": "2026-11-03",
-          "time_text": "10.00 Uhr",
-          "venue": "GRIPS Podewil am Alex",
-          "age_min": 8,
-          "indoor": true,
-          "categories": [
-            "Theater"
-          ],
-          "source_url": "https://www.grips-theater.de/de/spielplan/irgendwo-da-oben/3246",
-          "_source": {
-            "source_id": "grips-theater",
-            "url": "https://www.grips-theater.de/de/spielplan",
-            "retrieved_at": "2026-11-03T12:50:07.785169+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-29T11:33:03.286660+00:00"
-          }
-        }
-      },
-      "url": "https://www.grips-theater.de/de/spielplan"
-    },
-    {
-      "id": "rec_15fa0d23a91aa6ecf69f:added:2026-11-04T13:00:42.199814+00:00",
-      "title": "Added: Linie 1 / 2027-07-03 / 19.30 Uhr / GRIPS Hansaplatz",
-      "date_published": "2026-11-04T13:00:42.199814+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_15fa0d23a91aa6ecf69f",
-          "title": "Linie 1",
-          "start_date": "2027-07-03",
-          "time_text": "19.30 Uhr",
-          "venue": "GRIPS Hansaplatz",
-          "age_min": 16,
-          "indoor": true,
-          "categories": [
-            "Theater"
-          ],
-          "source_url": "https://www.grips-theater.de/de/spielplan/linie-1/3446",
-          "_source": {
-            "source_id": "grips-theater",
-            "url": "https://www.grips-theater.de/de/spielplan",
-            "retrieved_at": "2026-11-04T13:00:42.122828+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-04T13:00:42.122828+00:00"
           }
         }
       },
