@@ -4,6 +4,386 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_c0b0e5c5b3f49f56c300:removed:2026-11-10T13:29:51.750165+00:00",
+      "title": "Removed: 16GB: Tisch­tennis­platten­politik / 2026-11-09 / 10:00 / Theater an der Parkaue",
+      "date_published": "2026-11-10T13:29:51.750165+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_c0b0e5c5b3f49f56c300",
+          "title": "16GB: Tisch­tennis­platten­politik",
+          "start_date": "2026-11-09",
+          "time_text": "10:00",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 14,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/16gb-tischtennisplattenpolitik/2020/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-09T13:56:42.038417+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        }
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_0ac7ebd0f06523dc45c1:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Auf Weltreise mit den Millibillies / 2027-06-28 / 10.30 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_0ac7ebd0f06523dc45c1",
+          "title": "Auf Weltreise mit den Millibillies",
+          "start_date": "2027-06-28",
+          "time_text": "10.30 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/auf-weltreise-mit-den-millibillies/3546",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_8a07dc9b25e133aa0843:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Auf Weltreise mit den Millibillies / 2027-06-27 / 16.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_8a07dc9b25e133aa0843",
+          "title": "Auf Weltreise mit den Millibillies",
+          "start_date": "2027-06-27",
+          "time_text": "16.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/auf-weltreise-mit-den-millibillies/3545",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_8567ea3c909c1678573f:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Die fabelhaften Millibillies / 2027-06-23 / 10.30 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_8567ea3c909c1678573f",
+          "title": "Die fabelhaften Millibillies",
+          "start_date": "2027-06-23",
+          "time_text": "10.30 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/die-fabelhaften-millibillies/3544",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_81972cc627ea76af7c07:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Die fabelhaften Millibillies / 2027-06-22 / 10.30 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_81972cc627ea76af7c07",
+          "title": "Die fabelhaften Millibillies",
+          "start_date": "2027-06-22",
+          "time_text": "10.30 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/die-fabelhaften-millibillies/3542",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_3de0ba0726d12419ddbd:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: #diewelle / 2027-06-14 / 18.00 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_3de0ba0726d12419ddbd",
+          "title": "#diewelle",
+          "start_date": "2027-06-14",
+          "time_text": "18.00 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "age_min": 14,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/diewelle/3510",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_86b1721e6dd98e30cd12:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Die fabelhaften Millibillies / 2027-06-01 / 10.30 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_86b1721e6dd98e30cd12",
+          "title": "Die fabelhaften Millibillies",
+          "start_date": "2027-06-01",
+          "time_text": "10.30 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/die-fabelhaften-millibillies/3530",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_2e127cef250ff51f444c:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Die fabelhaften Millibillies / 2027-05-31 / 10.30 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_2e127cef250ff51f444c",
+          "title": "Die fabelhaften Millibillies",
+          "start_date": "2027-05-31",
+          "time_text": "10.30 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/die-fabelhaften-millibillies/3529",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_69fee735eeff8c42bc41:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Auf Weltreise mit den Millibillies / 2027-05-23 / 16.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_69fee735eeff8c42bc41",
+          "title": "Auf Weltreise mit den Millibillies",
+          "start_date": "2027-05-23",
+          "time_text": "16.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/auf-weltreise-mit-den-millibillies/3526",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_30a959b90ca080e68376:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Auf Weltreise mit den Millibillies / 2027-05-21 / 10.30 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_30a959b90ca080e68376",
+          "title": "Auf Weltreise mit den Millibillies",
+          "start_date": "2027-05-21",
+          "time_text": "10.30 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/auf-weltreise-mit-den-millibillies/3525",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_89c133126b9fe57d96f6:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: Auf Weltreise mit den Millibillies / 2027-05-20 / 10.30 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_89c133126b9fe57d96f6",
+          "title": "Auf Weltreise mit den Millibillies",
+          "start_date": "2027-05-20",
+          "time_text": "10.30 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 5,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/auf-weltreise-mit-den-millibillies/3524",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-04T13:00:42.122828+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_470245fe8fbc3c75f9ec:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: BÄR. Ein Zeitzeuge erzählt / 2026-11-09 / 10.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_470245fe8fbc3c75f9ec",
+          "title": "BÄR. Ein Zeitzeuge erzählt",
+          "start_date": "2026-11-09",
+          "time_text": "10.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 9,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/bar-ein-zeitzeuge-erzahlt/3251",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_93f2f1ded275883ab24b:removed:2026-11-10T13:29:48.810027+00:00",
+      "title": "Removed: #diewelle / 2026-11-09 / 10.00 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-10T13:29:48.810027+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_93f2f1ded275883ab24b",
+          "title": "#diewelle",
+          "start_date": "2026-11-09",
+          "time_text": "10.00 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "age_min": 14,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/diewelle/3252",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-09T13:56:38.714127+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
       "id": "rec_4b39cbcb1320cd811cd3:removed:2026-11-09T13:56:42.079120+00:00",
       "title": "Removed: Sichtprobe „16GB: Tisch­tennis­platten­politik“ / 2026-11-10 / 18:00 / Theater an der Parkaue",
       "date_published": "2026-11-09T13:56:42.079120+00:00",
@@ -11798,305 +12178,6 @@
             "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
             "mode": "fields",
             "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_67de2fa83c4683eae6ba:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (03.11.2026 10:00 - 19:30 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 10:00:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_67de2fa83c4683eae6ba",
-          "title": "Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad (03.11.2026 10:00 - 19:30 Uhr)",
-          "start_date": "2026-11-03",
-          "time_text": "Tue, 03 Nov 2026 10:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_cf60845ebf6de24cc4ac:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: „Paula, die Leseratte : Geschichten von Büchern und Buchstaben zum Lesen, Lachen und Lernen in der Schule und daheim“ mit der Illustratorin Antje Püpke (03.11.2026 10:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 10:00:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_cf60845ebf6de24cc4ac",
-          "title": "„Paula, die Leseratte : Geschichten von Büchern und Buchstaben zum Lesen, Lachen und Lernen in der Schule und daheim“ mit der Illustratorin Antje Püpke (03.11.2026 10:00 Uhr)",
-          "start_date": "2026-11-03",
-          "time_text": "Tue, 03 Nov 2026 10:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=286768&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_883dc32ad7c53d6a1baa:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Comic-Lesung: Inga Steinmetz – Felis Geheimnis (03.11.2026 09:00 - 10:00 Uhr) / 2026-11-03 / Tue, 03 Nov 2026 09:00:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_883dc32ad7c53d6a1baa",
-          "title": "Comic-Lesung: Inga Steinmetz – Felis Geheimnis (03.11.2026 09:00 - 10:00 Uhr)",
-          "start_date": "2026-11-03",
-          "time_text": "Tue, 03 Nov 2026 09:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294283&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_829b2406499a4d819357:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (03.11.2026) / 2026-11-03 / Tue, 03 Nov 2026 00:00:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_829b2406499a4d819357",
-          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (03.11.2026)",
-          "start_date": "2026-11-03",
-          "time_text": "Tue, 03 Nov 2026 00:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_d88d9b7ffbc7b3fbfa90:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Kidsführungen für Kitas und Grundschulen & Buchbare Angebote (03.11.2026) / 2026-11-03 / Tue, 03 Nov 2026 00:00:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_d88d9b7ffbc7b3fbfa90",
-          "title": "Kidsführungen für Kitas und Grundschulen & Buchbare Angebote (03.11.2026)",
-          "start_date": "2026-11-03",
-          "time_text": "Tue, 03 Nov 2026 00:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=271366&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_5592087013bf544861a5:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Vorlesen und Erzählen mit ehrenamtlichen Vorleser*innen in der Philipp-Schaeffer-Bibliothek (02.11.2026 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 17:00:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_5592087013bf544861a5",
-          "title": "Vorlesen und Erzählen mit ehrenamtlichen Vorleser*innen in der Philipp-Schaeffer-Bibliothek (02.11.2026 17:00 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 17:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=287107&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_cf9402ff5ecf76afe424:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Wissen zwischen Büchern: Von der Steinzeit bis ins Plastik- und Silizium-Zeitalter - und dann? Gemeinsam erfinden wir neue Materialien für eine bessere Zukunft. (02.11.2026 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 17:00:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_cf9402ff5ecf76afe424",
-          "title": "Wissen zwischen Büchern: Von der Steinzeit bis ins Plastik- und Silizium-Zeitalter - und dann? Gemeinsam erfinden wir neue Materialien für eine bessere Zukunft. (02.11.2026 17:00 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 17:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296867&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_80cd3b9f6895adca9a10:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Erzählzeit in der Dietrich-Bonhoeffer-Bibliothek (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_80cd3b9f6895adca9a10",
-          "title": "Erzählzeit in der Dietrich-Bonhoeffer-Bibliothek (02.11.2026 16:30 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=277576&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_83b4a2f1d3054bed6037:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Bilderbuchkino (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_83b4a2f1d3054bed6037",
-          "title": "Bilderbuchkino (02.11.2026 16:30 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_63234f715dab87c4216a:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Vorlesestunde in der Bibliothek am Schäfersee (02.11.2026 16:30 - 17:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_63234f715dab87c4216a",
-          "title": "Vorlesestunde in der Bibliothek am Schäfersee (02.11.2026 16:30 - 17:30 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_854298b6ee641eb35379:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Vorlesestunde in der Bibliothek im Märkischen Viertel (02.11.2026 16:30 - 17:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_854298b6ee641eb35379",
-          "title": "Vorlesestunde in der Bibliothek im Märkischen Viertel (02.11.2026 16:30 - 17:30 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_c91226ea9b869407c6b6:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Bilderbuchgeschichten ab 3 Jahren (02.11.2026 16:30 - 17:00 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_c91226ea9b869407c6b6",
-          "title": "Bilderbuchgeschichten ab 3 Jahren (02.11.2026 16:30 - 17:00 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285673&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-31T10:56:45.212515+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_9a1a42c377cac04aa413:removed:2026-11-05T13:14:24.778872+00:00",
-      "title": "Removed: Lesemontag bei Weinerts (02.11.2026 16:30 Uhr) / 2026-11-02 / Mon, 02 Nov 2026 16:30:00 +0100",
-      "date_published": "2026-11-05T13:14:24.778872+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_9a1a42c377cac04aa413",
-          "title": "Lesemontag bei Weinerts (02.11.2026 16:30 Uhr)",
-          "start_date": "2026-11-02",
-          "time_text": "Mon, 02 Nov 2026 16:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=266521&ls=0&c=14&kategorie[50]=3&date_start=01.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-01T11:51:44.673180+00:00",
-            "mode": "fields",
-            "first_seen": "2026-10-30T11:25:45.467900+00:00"
           }
         }
       },
