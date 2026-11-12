@@ -4,6 +4,95 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_d644ff25d6ed9485a71d:removed:2026-11-12T13:47:54.698341+00:00",
+      "title": "Removed: Unterscheidet euch! / 2026-11-11 / 10:00 - 11:15 / Theater an der Parkaue",
+      "date_published": "2026-11-12T13:47:54.698341+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_d644ff25d6ed9485a71d",
+          "title": "Unterscheidet euch!",
+          "start_date": "2026-11-11",
+          "time_text": "10:00 - 11:15",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 10,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/unterscheidet-euch/2019/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-11T12:44:54.712324+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        }
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_ea679344c172057b7ef4:removed:2026-11-12T13:47:51.684497+00:00",
+      "title": "Removed: Film - „Die schönste Zeit im Leben“ / 2026-11-11 / 19.00 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-12T13:47:51.684497+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_ea679344c172057b7ef4",
+          "title": "Film - „Die schönste Zeit im Leben“",
+          "start_date": "2026-11-11",
+          "time_text": "19.00 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/film-die-schonste-zeit-im-leben/3307",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-11T12:44:51.722585+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_472502d6f92f599d5e04:removed:2026-11-12T13:47:51.684497+00:00",
+      "title": "Removed: BÄR. Ein Zeitzeuge erzählt / 2026-11-11 / 10.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-12T13:47:51.684497+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_472502d6f92f599d5e04",
+          "title": "BÄR. Ein Zeitzeuge erzählt",
+          "start_date": "2026-11-11",
+          "time_text": "10.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 9,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/bar-ein-zeitzeuge-erzahlt/3254",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-11T12:44:51.722585+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
       "id": "rec_d71067b30aac3862d863:removed:2026-11-11T12:44:51.865252+00:00",
       "title": "Removed: BÄR. Ein Zeitzeuge erzählt / 2026-11-10 / 10.00 Uhr / GRIPS Podewil am Alex",
       "date_published": "2026-11-11T12:44:51.865252+00:00",
@@ -12022,75 +12111,6 @@
           "start_date": "2026-11-05",
           "time_text": "Thu, 05 Nov 2026 16:00:00 +0100",
           "source_url": "https://www.berlin.de/land/kalender/index.php?detail=291661&ls=0&c=14&kategorie[50]=3&date_start=05.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-05T13:14:24.757981+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-05T13:14:24.757981+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_8d82f28c9a3919c2bcd0:removed:2026-11-06T12:58:30.499477+00:00",
-      "title": "Removed: Hausaufgabenhilfe für die 1.-6. Klasse (05.11.2026 16:00 - 18:00 Uhr) / 2026-11-05 / Thu, 05 Nov 2026 16:00:00 +0100",
-      "date_published": "2026-11-06T12:58:30.499477+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_8d82f28c9a3919c2bcd0",
-          "title": "Hausaufgabenhilfe für die 1.-6. Klasse (05.11.2026 16:00 - 18:00 Uhr)",
-          "start_date": "2026-11-05",
-          "time_text": "Thu, 05 Nov 2026 16:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=289115&ls=0&c=14&kategorie[50]=3&date_start=05.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-05T13:14:24.757981+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-05T13:14:24.757981+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_db05b379b6c476dc1fa7:removed:2026-11-06T12:58:30.499477+00:00",
-      "title": "Removed: Leseclub für Kinder (05.11.2026 16:00 - 17:00 Uhr) / 2026-11-05 / Thu, 05 Nov 2026 16:00:00 +0100",
-      "date_published": "2026-11-06T12:58:30.499477+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_db05b379b6c476dc1fa7",
-          "title": "Leseclub für Kinder (05.11.2026 16:00 - 17:00 Uhr)",
-          "start_date": "2026-11-05",
-          "time_text": "Thu, 05 Nov 2026 16:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=0&c=14&kategorie[50]=3&date_start=05.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-05T13:14:24.757981+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-05T13:14:24.757981+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_830a207b7a759ab2c2ad:removed:2026-11-06T12:58:30.499477+00:00",
-      "title": "Removed: Spielenachmittag für Familien mit Kindern in der Adolf-Reichwein-Bibliothek (05.11.2026 16:00 - 18:00 Uhr) / 2026-11-05 / Thu, 05 Nov 2026 16:00:00 +0100",
-      "date_published": "2026-11-06T12:58:30.499477+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_830a207b7a759ab2c2ad",
-          "title": "Spielenachmittag für Familien mit Kindern in der Adolf-Reichwein-Bibliothek (05.11.2026 16:00 - 18:00 Uhr)",
-          "start_date": "2026-11-05",
-          "time_text": "Thu, 05 Nov 2026 16:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=287890&ls=0&c=14&kategorie[50]=3&date_start=05.11.2026",
           "_source": {
             "source_id": "berlin-de-bezirke-kinder",
             "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
