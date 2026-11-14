@@ -4,6 +4,137 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_b801e77f5520a1fd5b5e:removed:2026-11-14T12:13:52.499019+00:00",
+      "title": "Removed: Unterscheidet euch! / 2026-11-13 / 10:00 - 11:15 / Theater an der Parkaue",
+      "date_published": "2026-11-14T12:13:52.499019+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_b801e77f5520a1fd5b5e",
+          "title": "Unterscheidet euch!",
+          "start_date": "2026-11-13",
+          "time_text": "10:00 - 11:15",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 10,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/unterscheidet-euch/2017/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-13T13:09:05.713338+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        }
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_a4f5d3ec7000ca56ce46:changed:2026-11-14T12:13:52.499019+00:00",
+      "title": "Changed: Bioluminescence / 2026-11-19 / 19:30 - 20:45 / Theater an der Parkaue",
+      "date_published": "2026-11-14T12:13:52.499019+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_a4f5d3ec7000ca56ce46",
+          "title": "Bioluminescence",
+          "start_date": "2026-11-19",
+          "time_text": "19:30 - 20:45",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 14,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/bioluminescence/2013/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-14T12:13:52.459613+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        },
+        "fields": [
+          "age_min"
+        ]
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_0c9cad81100539c58832:changed:2026-11-14T12:13:52.499019+00:00",
+      "title": "Changed: Bioluminescence / 2026-11-18 / 19:30 - 20:45 / Theater an der Parkaue",
+      "date_published": "2026-11-14T12:13:52.499019+00:00",
+      "_gleanyard": {
+        "change": "changed",
+        "record": {
+          "id": "rec_0c9cad81100539c58832",
+          "title": "Bioluminescence",
+          "start_date": "2026-11-18",
+          "time_text": "19:30 - 20:45",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 14,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/bioluminescence/2015/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-14T12:13:52.459613+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        },
+        "fields": [
+          "age_min"
+        ]
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_00a0c450b2287a71780a:removed:2026-11-14T12:13:49.586676+00:00",
+      "title": "Removed: #diewelle / 2026-11-13 / 10.00 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-14T12:13:49.586676+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_00a0c450b2287a71780a",
+          "title": "#diewelle",
+          "start_date": "2026-11-13",
+          "time_text": "10.00 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "age_min": 14,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/diewelle/3257",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-13T13:09:02.624686+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
       "id": "rec_fa84ea1053ef1521610e:removed:2026-11-13T13:09:05.731910+00:00",
       "title": "Removed: 16GB: Tisch­tennis­platten­politik / 2026-11-12 / 19:00 / Theater an der Parkaue",
       "date_published": "2026-11-13T13:09:05.731910+00:00",
@@ -11800,107 +11931,6 @@
         "fields": [
           "source_url"
         ]
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_91a4edc264e4032d6093:changed:2026-11-09T13:56:34.254380+00:00",
-      "title": "Changed: ECHT STARK! – die interaktive Wanderausstellung zur Prävention von sexualisierter Gewalt an Mädchen* und Jungen* (09.11.2026 10:00 - 18:00 Uhr) / 2026-11-09 / Mon, 09 Nov 2026 10:00:00 +0100",
-      "date_published": "2026-11-09T13:56:34.254380+00:00",
-      "_gleanyard": {
-        "change": "changed",
-        "record": {
-          "id": "rec_91a4edc264e4032d6093",
-          "title": "ECHT STARK! – die interaktive Wanderausstellung zur Prävention von sexualisierter Gewalt an Mädchen* und Jungen* (09.11.2026 10:00 - 18:00 Uhr)",
-          "start_date": "2026-11-09",
-          "time_text": "Mon, 09 Nov 2026 10:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=297425&ls=0&c=14&kategorie[50]=3&date_start=09.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-09T13:56:34.223549+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-06T12:58:30.485479+00:00"
-          }
-        },
-        "fields": [
-          "source_url"
-        ]
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_6339fd3a28dad7158b02:changed:2026-11-09T13:56:34.254380+00:00",
-      "title": "Changed: Bilderbuch-Lesung: Ulrich Hub – Geburtstag im Staubsauger (09.11.2026 09:00 - 10:00 Uhr) / 2026-11-09 / Mon, 09 Nov 2026 09:00:00 +0100",
-      "date_published": "2026-11-09T13:56:34.254380+00:00",
-      "_gleanyard": {
-        "change": "changed",
-        "record": {
-          "id": "rec_6339fd3a28dad7158b02",
-          "title": "Bilderbuch-Lesung: Ulrich Hub – Geburtstag im Staubsauger (09.11.2026 09:00 - 10:00 Uhr)",
-          "start_date": "2026-11-09",
-          "time_text": "Mon, 09 Nov 2026 09:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=294301&ls=0&c=14&kategorie[50]=3&date_start=09.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-09T13:56:34.223549+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-06T12:58:30.485479+00:00"
-          }
-        },
-        "fields": [
-          "source_url"
-        ]
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_7d31002dd4f7614c6414:changed:2026-11-09T13:56:34.254380+00:00",
-      "title": "Changed: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (09.11.2026) / 2026-11-09 / Mon, 09 Nov 2026 00:00:00 +0100",
-      "date_published": "2026-11-09T13:56:34.254380+00:00",
-      "_gleanyard": {
-        "change": "changed",
-        "record": {
-          "id": "rec_7d31002dd4f7614c6414",
-          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (09.11.2026)",
-          "start_date": "2026-11-09",
-          "time_text": "Mon, 09 Nov 2026 00:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=09.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-09T13:56:34.223549+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-06T12:58:30.485479+00:00"
-          }
-        },
-        "fields": [
-          "source_url"
-        ]
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_8a7cffb14440f2010acd:added:2026-11-09T13:56:34.254380+00:00",
-      "title": "Added: MitSpielen: Gaming Lounge in der Bibliothek am Luisenbad (11.11.2026 15:30 - 18:30 Uhr) / 2026-11-11 / Wed, 11 Nov 2026 15:30:00 +0100",
-      "date_published": "2026-11-09T13:56:34.254380+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_8a7cffb14440f2010acd",
-          "title": "MitSpielen: Gaming Lounge in der Bibliothek am Luisenbad (11.11.2026 15:30 - 18:30 Uhr)",
-          "start_date": "2026-11-11",
-          "time_text": "Wed, 11 Nov 2026 15:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=0&c=14&kategorie[50]=3&date_start=09.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-09T13:56:34.223549+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-09T13:56:34.223549+00:00"
-          }
-        }
       },
       "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
     }
