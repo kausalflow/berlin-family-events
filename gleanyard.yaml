@@ -13,4 +13,5 @@ dataherb:
     calendars (facts only: title, date, place, link to the organiser's page).
   tags: [events, family, berlin]
   owner: kausalflow
+  license: CC-BY-4.0     # licence of the export (dataherb.json)
   expected_interval: P1D

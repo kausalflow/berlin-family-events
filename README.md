@@ -25,3 +25,10 @@ gleanyard status
 
 The `collect` workflow runs daily, commits `status.json` and the records, and opens a
 `repair` issue when a source fails. Changes to sources arrive as pull requests.
+
+## Licence
+
+The collected records (`data/`, `exports/`) and this repository are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE`). Credit
+"berlin-family-events (kausalflow)" and keep each record's link to its source; the facts belong to the
+organisations that published them.
