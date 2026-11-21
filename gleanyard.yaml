@@ -2,3 +2,15 @@
 schema_version: 1
 user_agent: "berlin-family-events (+https://github.com/kausalflow/berlin-family-events)"   # say who you are; add a contact URL
 excluded_hosts: []        # hosts research must not propose
+
+# List this dataset in a DataHerb catalog: `export` writes dataherb.json and `collect` writes a
+# job status under _dataherb/status/. See https://kausalflow.github.io/gleanyard/
+dataherb:
+  id: berlin-family-events
+  name: Family events in Berlin
+  description: >-
+    Upcoming events for children and families in Berlin, collected daily from public event
+    calendars (facts only: title, date, place, link to the organiser's page).
+  tags: [events, family, berlin]
+  owner: kausalflow
+  expected_interval: P1D
