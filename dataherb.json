@@ -1,0 +1,120 @@
+{
+  "spec": "dataherb/v2",
+  "id": "berlin-family-events",
+  "name": "Family events in Berlin",
+  "description": "Upcoming events for children and families in Berlin, collected daily from public event calendars (facts only: title, date, place, link to the organiser's page).",
+  "tags": [
+    "events",
+    "family",
+    "berlin"
+  ],
+  "owner": "kausalflow",
+  "license": "CC-BY-4.0",
+  "classification": "public",
+  "update_frequency": "P1D",
+  "status_job": "berlin-family-events",
+  "source": "git",
+  "uri": "https://github.com/kausalflow/berlin-family-events",
+  "datapackage": {
+    "resources": [
+      {
+        "name": "records",
+        "path": "exports/records.jsonl",
+        "format": "ndjson",
+        "mediatype": "application/x-ndjson",
+        "rows": 424,
+        "bytes": 226576,
+        "schema": {
+          "fields": [
+            {
+              "name": "id",
+              "type": "string",
+              "description": "Stable record id."
+            },
+            {
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "name": "start_date",
+              "type": "date"
+            },
+            {
+              "name": "end_date",
+              "type": "date"
+            },
+            {
+              "name": "time_text",
+              "type": "string"
+            },
+            {
+              "name": "venue",
+              "type": "string"
+            },
+            {
+              "name": "street",
+              "type": "string"
+            },
+            {
+              "name": "postal_code",
+              "type": "string",
+              "description": "Berlin postcodes only (10001 to 14199)."
+            },
+            {
+              "name": "district",
+              "type": "string",
+              "description": "Bezirk or Ortsteil as the source names it, for filtering."
+            },
+            {
+              "name": "age_min",
+              "type": "integer",
+              "description": "Youngest age the event is meant for, in years; 0 for babies."
+            },
+            {
+              "name": "age_max",
+              "type": "integer",
+              "description": "Oldest age the event is meant for, in years."
+            },
+            {
+              "name": "free",
+              "type": "boolean",
+              "description": "True when admission costs nothing."
+            },
+            {
+              "name": "price",
+              "type": "object",
+              "description": "Lowest admission price."
+            },
+            {
+              "name": "indoor",
+              "type": "boolean",
+              "description": "True for indoor events, false for outdoor ones."
+            },
+            {
+              "name": "categories",
+              "type": "array"
+            },
+            {
+              "name": "source_url",
+              "type": "string"
+            },
+            {
+              "name": "description",
+              "type": "string"
+            },
+            {
+              "name": "image_url",
+              "type": "string"
+            },
+            {
+              "name": "_source",
+              "type": "object",
+              "description": "Provenance: source_id, url, retrieved_at, mode, attribution."
+            }
+          ],
+          "primaryKey": "id"
+        }
+      }
+    ]
+  }
+}
