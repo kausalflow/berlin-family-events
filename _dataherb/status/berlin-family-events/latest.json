@@ -14,53 +14,53 @@
     "url": "https://github.com/kausalflow/berlin-family-events"
   },
   "run": {
-    "id": "45430968642-1",
+    "id": "45647438463-1",
     "status": "success",
-    "started_at": "2026-11-24T15:55:07Z",
-    "finished_at": "2026-11-24T15:55:19Z",
-    "duration_seconds": 12.246,
+    "started_at": "2026-11-25T15:38:40Z",
+    "finished_at": "2026-11-25T15:38:52Z",
+    "duration_seconds": 12.561,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45430968642"
+    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45647438463"
   },
   "last_success": {
-    "id": "45430968642-1",
+    "id": "45647438463-1",
     "status": "success",
-    "started_at": "2026-11-24T15:55:07Z",
-    "finished_at": "2026-11-24T15:55:19Z",
-    "duration_seconds": 12.246,
+    "started_at": "2026-11-25T15:38:40Z",
+    "finished_at": "2026-11-25T15:38:52Z",
+    "duration_seconds": 12.561,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45430968642"
+    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45647438463"
   },
   "datasets": [
     {
       "id": "berlin-family-events",
-      "rows": 419
+      "rows": 414
     }
   ],
   "checks": [
     {
       "name": "berlin-de-bezirke-kinder",
       "status": "pass",
-      "value": 100
+      "value": 99
     },
     {
       "name": "grips-theater",
       "status": "pass",
-      "value": 253
+      "value": 252
     },
     {
       "name": "theater-an-der-parkaue",
       "status": "pass",
-      "value": 66
+      "value": 63
     }
   ],
   "metrics": {
     "sources": 3,
     "sources_failing": 0,
     "sources_degraded": 0,
-    "records": 419,
+    "records": 414,
     "rejections": 0,
     "pages": 3,
     "model_calls": 0,
@@ -70,5 +70,5 @@
     "name": "gleanyard",
     "version": "0.13.0"
   },
-  "written_at": "2026-11-24T15:55:19Z"
+  "written_at": "2026-11-25T15:38:52Z"
 }
