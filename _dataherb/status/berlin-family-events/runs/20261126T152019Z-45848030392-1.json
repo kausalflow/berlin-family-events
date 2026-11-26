@@ -1,0 +1,80 @@
+{
+  "spec": "dataherb.status/v1",
+  "job": {
+    "id": "berlin-family-events",
+    "name": "Family events in Berlin",
+    "orchestrator": "github-actions",
+    "expected_interval": "P1D",
+    "owner": "kausalflow",
+    "tags": [
+      "events",
+      "family",
+      "berlin"
+    ],
+    "url": "https://github.com/kausalflow/berlin-family-events"
+  },
+  "run": {
+    "id": "45848030392-1",
+    "status": "partial",
+    "started_at": "2026-11-26T15:20:19Z",
+    "finished_at": "2026-11-26T15:20:31Z",
+    "duration_seconds": 11.833,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45848030392",
+    "message": "1 of 3 sources failed",
+    "error": {
+      "type": "bounds_exceeded",
+      "message": "berlin-de-bezirke-kinder: berlin-de-bezirke-kinder: reached the limit of 3 requests"
+    }
+  },
+  "last_success": {
+    "id": "45647438463-1",
+    "status": "success",
+    "started_at": "2026-11-25T15:38:40Z",
+    "finished_at": "2026-11-25T15:38:52Z",
+    "duration_seconds": 12.561,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45647438463"
+  },
+  "datasets": [
+    {
+      "id": "berlin-family-events",
+      "rows": 408
+    }
+  ],
+  "checks": [
+    {
+      "name": "berlin-de-bezirke-kinder",
+      "status": "fail",
+      "value": 99,
+      "message": "failing: berlin-de-bezirke-kinder: reached the limit of 3 requests"
+    },
+    {
+      "name": "grips-theater",
+      "status": "pass",
+      "value": 249
+    },
+    {
+      "name": "theater-an-der-parkaue",
+      "status": "pass",
+      "value": 60
+    }
+  ],
+  "metrics": {
+    "sources": 3,
+    "sources_failing": 1,
+    "sources_degraded": 0,
+    "records": 309,
+    "rejections": 0,
+    "pages": 2,
+    "model_calls": 0,
+    "cost_eur": 0.0
+  },
+  "producer": {
+    "name": "gleanyard",
+    "version": "0.13.0"
+  },
+  "written_at": "2026-11-26T15:20:31Z"
+}

@@ -4,6 +4,189 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_bcec2b25eff5d1757936:removed:2026-11-26T15:20:31.695220+00:00",
+      "title": "Removed: LOVE WORK MACHINE / 2026-11-25 / 11:30 / Theater an der Parkaue",
+      "date_published": "2026-11-26T15:20:31.695220+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_bcec2b25eff5d1757936",
+          "title": "LOVE WORK MACHINE",
+          "start_date": "2026-11-25",
+          "time_text": "11:30",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 13,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/love-work-machine/2005/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-25T15:38:52.559794+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        }
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_945457003cfce6529cc6:removed:2026-11-26T15:20:31.695220+00:00",
+      "title": "Removed: Pinocchio / 2026-11-25 / 10:00 / Theater an der Parkaue",
+      "date_published": "2026-11-26T15:20:31.695220+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_945457003cfce6529cc6",
+          "title": "Pinocchio",
+          "start_date": "2026-11-25",
+          "time_text": "10:00",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 6,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/pinocchio/1966/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-25T15:38:52.559794+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        }
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_a2dafd2c61035951702e:removed:2026-11-26T15:20:31.695220+00:00",
+      "title": "Removed: LOVE WORK MACHINE / 2026-11-25 / 09:30 / Theater an der Parkaue",
+      "date_published": "2026-11-26T15:20:31.695220+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_a2dafd2c61035951702e",
+          "title": "LOVE WORK MACHINE",
+          "start_date": "2026-11-25",
+          "time_text": "09:30",
+          "venue": "Theater an der Parkaue",
+          "street": "Parkaue 29",
+          "postal_code": "10367",
+          "district": "Lichtenberg",
+          "age_min": 13,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.parkaue.de/spielplan/spielplan/love-work-machine/2006/",
+          "_source": {
+            "source_id": "theater-an-der-parkaue",
+            "url": "https://www.parkaue.de/spielplan/",
+            "retrieved_at": "2026-11-25T15:38:52.559794+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:06.746026+00:00"
+          }
+        }
+      },
+      "url": "https://www.parkaue.de/spielplan/"
+    },
+    {
+      "id": "rec_0871f86bb757f0c4cd7e:removed:2026-11-26T15:20:28.919338+00:00",
+      "title": "Removed: Fuchs & Söhne / 2026-11-25 / 19.30 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-26T15:20:28.919338+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_0871f86bb757f0c4cd7e",
+          "title": "Fuchs & Söhne",
+          "start_date": "2026-11-25",
+          "time_text": "19.30 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "age_min": 16,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/fuchs-sohne/3264",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-25T15:38:49.412837+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_a7700a4e2361f4ac2e2b:removed:2026-11-26T15:20:28.919338+00:00",
+      "title": "Removed: Princess / 2026-11-25 / 11.00 Uhr / GRIPS Hansaplatz",
+      "date_published": "2026-11-26T15:20:28.919338+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_a7700a4e2361f4ac2e2b",
+          "title": "Princess",
+          "start_date": "2026-11-25",
+          "time_text": "11.00 Uhr",
+          "venue": "GRIPS Hansaplatz",
+          "age_min": 11,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/princess/3263",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-25T15:38:49.412837+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
+      "id": "rec_9591305fa046e65c80a8:removed:2026-11-26T15:20:28.919338+00:00",
+      "title": "Removed: Das Herz eines Boxers / 2026-11-25 / 11.00 Uhr / GRIPS Podewil am Alex",
+      "date_published": "2026-11-26T15:20:28.919338+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_9591305fa046e65c80a8",
+          "title": "Das Herz eines Boxers",
+          "start_date": "2026-11-25",
+          "time_text": "11.00 Uhr",
+          "venue": "GRIPS Podewil am Alex",
+          "age_min": 12,
+          "indoor": true,
+          "categories": [
+            "Theater"
+          ],
+          "source_url": "https://www.grips-theater.de/de/spielplan/das-herz-eines-boxers/3317",
+          "_source": {
+            "source_id": "grips-theater",
+            "url": "https://www.grips-theater.de/de/spielplan",
+            "retrieved_at": "2026-11-25T15:38:49.412837+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-29T11:33:03.286660+00:00"
+          }
+        }
+      },
+      "url": "https://www.grips-theater.de/de/spielplan"
+    },
+    {
       "id": "rec_1a8241ed74d0e652372b:removed:2026-11-25T15:38:52.590547+00:00",
       "title": "Removed: LOVE WORK MACHINE / 2026-11-24 / 11:30 / Theater an der Parkaue",
       "date_published": "2026-11-25T15:38:52.590547+00:00",
@@ -12333,147 +12516,6 @@
         "fields": [
           "source_url"
         ]
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_b0123ab67ac9c37c1418:changed:2026-11-22T13:23:10.660500+00:00",
-      "title": "Changed: Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (22.11.2026) / 2026-11-22 / Sun, 22 Nov 2026 00:00:00 +0100",
-      "date_published": "2026-11-22T13:23:10.660500+00:00",
-      "_gleanyard": {
-        "change": "changed",
-        "record": {
-          "id": "rec_b0123ab67ac9c37c1418",
-          "title": "Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (22.11.2026)",
-          "start_date": "2026-11-22",
-          "time_text": "Sun, 22 Nov 2026 00:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=281089&ls=0&c=14&kategorie[50]=3&date_start=22.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-22T13:23:10.633703+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-20T14:03:26.420597+00:00"
-          }
-        },
-        "fields": [
-          "source_url"
-        ]
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_2bb83c1653635eefe67a:added:2026-11-22T13:23:10.660500+00:00",
-      "title": "Added: After School Gaming (25.11.2026 15:00 - 18:00 Uhr) / 2026-11-25 / Wed, 25 Nov 2026 15:00:00 +0100",
-      "date_published": "2026-11-22T13:23:10.660500+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_2bb83c1653635eefe67a",
-          "title": "After School Gaming (25.11.2026 15:00 - 18:00 Uhr)",
-          "start_date": "2026-11-25",
-          "time_text": "Wed, 25 Nov 2026 15:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=269152&ls=0&c=14&kategorie[50]=3&date_start=22.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-22T13:23:10.633703+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-22T13:23:10.633703+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_f289d5eceb4df19ac351:added:2026-11-22T13:23:10.660500+00:00",
-      "title": "Added: Pocket Platformer Workshop (25.11.2026 15:00 - 17:30 Uhr) / 2026-11-25 / Wed, 25 Nov 2026 15:00:00 +0100",
-      "date_published": "2026-11-22T13:23:10.660500+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_f289d5eceb4df19ac351",
-          "title": "Pocket Platformer Workshop (25.11.2026 15:00 - 17:30 Uhr)",
-          "start_date": "2026-11-25",
-          "time_text": "Wed, 25 Nov 2026 15:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=296468&ls=0&c=14&kategorie[50]=3&date_start=22.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-22T13:23:10.633703+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-22T13:23:10.633703+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_77c5a8d32c0ba47720d6:added:2026-11-22T13:23:10.660500+00:00",
-      "title": "Added: Comic & Manga-Workshop in der Bibliothek Lichtenrade (25.11.2026 15:00 - 17:00 Uhr) / 2026-11-25 / Wed, 25 Nov 2026 15:00:00 +0100",
-      "date_published": "2026-11-22T13:23:10.660500+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_77c5a8d32c0ba47720d6",
-          "title": "Comic & Manga-Workshop in der Bibliothek Lichtenrade (25.11.2026 15:00 - 17:00 Uhr)",
-          "start_date": "2026-11-25",
-          "time_text": "Wed, 25 Nov 2026 15:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=270841&ls=0&c=14&kategorie[50]=3&date_start=22.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-22T13:23:10.633703+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-22T13:23:10.633703+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_6e5ad78e30cf9388403b:added:2026-11-22T13:23:10.660500+00:00",
-      "title": "Added: Virtual Reality: Erlebe die Zukunft – mit Virtual Reality! (Alter: 10-14 J.) (25.11.2026 14:30 - 16:30 Uhr) / 2026-11-25 / Wed, 25 Nov 2026 14:30:00 +0100",
-      "date_published": "2026-11-22T13:23:10.660500+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_6e5ad78e30cf9388403b",
-          "title": "Virtual Reality: Erlebe die Zukunft – mit Virtual Reality! (Alter: 10-14 J.) (25.11.2026 14:30 - 16:30 Uhr)",
-          "start_date": "2026-11-25",
-          "time_text": "Wed, 25 Nov 2026 14:30:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=288263&ls=0&c=14&kategorie[50]=3&date_start=22.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-22T13:23:10.633703+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-22T13:23:10.633703+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
-    },
-    {
-      "id": "rec_68ce1e90e9680d475919:added:2026-11-22T13:23:10.660500+00:00",
-      "title": "Added: Das »Digital-Zebra« - Die öffentliche Digital-Beratung (25.11.2026 13:00 - 15:00 Uhr) / 2026-11-25 / Wed, 25 Nov 2026 13:00:00 +0100",
-      "date_published": "2026-11-22T13:23:10.660500+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_68ce1e90e9680d475919",
-          "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung (25.11.2026 13:00 - 15:00 Uhr)",
-          "start_date": "2026-11-25",
-          "time_text": "Wed, 25 Nov 2026 13:00:00 +0100",
-          "source_url": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=14&kategorie[50]=3&date_start=22.11.2026",
-          "_source": {
-            "source_id": "berlin-de-bezirke-kinder",
-            "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3",
-            "retrieved_at": "2026-11-22T13:23:10.633703+00:00",
-            "mode": "fields",
-            "first_seen": "2026-11-22T13:23:10.633703+00:00"
-          }
-        }
       },
       "url": "https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3"
     }

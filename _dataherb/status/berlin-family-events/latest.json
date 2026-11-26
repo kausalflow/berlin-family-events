@@ -14,14 +14,19 @@
     "url": "https://github.com/kausalflow/berlin-family-events"
   },
   "run": {
-    "id": "45647438463-1",
-    "status": "success",
-    "started_at": "2026-11-25T15:38:40Z",
-    "finished_at": "2026-11-25T15:38:52Z",
-    "duration_seconds": 12.561,
+    "id": "45848030392-1",
+    "status": "partial",
+    "started_at": "2026-11-26T15:20:19Z",
+    "finished_at": "2026-11-26T15:20:31Z",
+    "duration_seconds": 11.833,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45647438463"
+    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/45848030392",
+    "message": "1 of 3 sources failed",
+    "error": {
+      "type": "bounds_exceeded",
+      "message": "berlin-de-bezirke-kinder: berlin-de-bezirke-kinder: reached the limit of 3 requests"
+    }
   },
   "last_success": {
     "id": "45647438463-1",
@@ -36,33 +41,34 @@
   "datasets": [
     {
       "id": "berlin-family-events",
-      "rows": 414
+      "rows": 408
     }
   ],
   "checks": [
     {
       "name": "berlin-de-bezirke-kinder",
-      "status": "pass",
-      "value": 99
+      "status": "fail",
+      "value": 99,
+      "message": "failing: berlin-de-bezirke-kinder: reached the limit of 3 requests"
     },
     {
       "name": "grips-theater",
       "status": "pass",
-      "value": 252
+      "value": 249
     },
     {
       "name": "theater-an-der-parkaue",
       "status": "pass",
-      "value": 63
+      "value": 60
     }
   ],
   "metrics": {
     "sources": 3,
-    "sources_failing": 0,
+    "sources_failing": 1,
     "sources_degraded": 0,
-    "records": 414,
+    "records": 309,
     "rejections": 0,
-    "pages": 3,
+    "pages": 2,
     "model_calls": 0,
     "cost_eur": 0.0
   },
@@ -70,5 +76,5 @@
     "name": "gleanyard",
     "version": "0.13.0"
   },
-  "written_at": "2026-11-25T15:38:52Z"
+  "written_at": "2026-11-26T15:20:31Z"
 }
