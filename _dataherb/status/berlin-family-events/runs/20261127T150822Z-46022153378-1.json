@@ -1,0 +1,74 @@
+{
+  "spec": "dataherb.status/v1",
+  "job": {
+    "id": "berlin-family-events",
+    "name": "Family events in Berlin",
+    "orchestrator": "github-actions",
+    "expected_interval": "P1D",
+    "owner": "kausalflow",
+    "tags": [
+      "events",
+      "family",
+      "berlin"
+    ],
+    "url": "https://github.com/kausalflow/berlin-family-events"
+  },
+  "run": {
+    "id": "46022153378-1",
+    "status": "success",
+    "started_at": "2026-11-27T15:08:22Z",
+    "finished_at": "2026-11-27T15:08:34Z",
+    "duration_seconds": 12.101,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/46022153378"
+  },
+  "last_success": {
+    "id": "46022153378-1",
+    "status": "success",
+    "started_at": "2026-11-27T15:08:22Z",
+    "finished_at": "2026-11-27T15:08:34Z",
+    "duration_seconds": 12.101,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/kausalflow/berlin-family-events/actions/runs/46022153378"
+  },
+  "datasets": [
+    {
+      "id": "berlin-family-events",
+      "rows": 403
+    }
+  ],
+  "checks": [
+    {
+      "name": "berlin-de-bezirke-kinder",
+      "status": "pass",
+      "value": 99
+    },
+    {
+      "name": "grips-theater",
+      "status": "pass",
+      "value": 247
+    },
+    {
+      "name": "theater-an-der-parkaue",
+      "status": "pass",
+      "value": 57
+    }
+  ],
+  "metrics": {
+    "sources": 3,
+    "sources_failing": 0,
+    "sources_degraded": 0,
+    "records": 403,
+    "rejections": 0,
+    "pages": 3,
+    "model_calls": 0,
+    "cost_eur": 0.0
+  },
+  "producer": {
+    "name": "gleanyard",
+    "version": "0.13.0"
+  },
+  "written_at": "2026-11-27T15:08:34Z"
+}
